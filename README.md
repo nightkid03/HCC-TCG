@@ -226,7 +226,7 @@ table(mysigedge_count)
 ```
 ### 8.8 find stable edges and output for Cytoscape
 ```
-a=names(mysigedge_count)[which(mysigedge_count==length(mysigedge)]
+a=names(mysigedge_count)[which(mysigedge_count==length(mysigedge.list)]
 alink=gsub("=.*","",a)
 mysigedge_stable=data.frame(
   Source=gsub("/.*","",alink),
