@@ -1,6 +1,6 @@
 myallgroupshort_color=c("#2ca02c","#d62728")
 #Figure1B
-drawdata=readRDS("ForGithub-HCC/fig1B.rds")
+drawdata=readRDS("fig1B.rds")
 ggplot(drawdata,aes(x=Axis.1,y=Axis.2))+
   geom_point(aes(color=groupshort),size=5)+
   geom_segment(data=drawdata_mean_df,aes(x=meanX1,y=meanX2,xend=Axis.1,yend=Axis.2,color=Group))+
@@ -13,7 +13,7 @@ ggplot(drawdata,aes(x=Axis.1,y=Axis.2))+
   geom_xsidedensity(aes(fill = groupshort), alpha = 0.4, show.legend = FALSE)+
   geom_ysidedensity(aes(fill = groupshort), alpha = 0.4, show.legend = FALSE)
 #Figure1D
-drawdata=readRDS("ForGithub-HCC/fig1D.rds")
+drawdata=readRDS("fig1D.rds")
 ggplot(drawdata,aes(x=Axis.1,y=Axis.2))+
   geom_point(aes(color=groupshort),size=5)+
   geom_segment(data=drawdata_mean_df,aes(x=meanX1,y=meanX2,xend=Axis.1,yend=Axis.2,color=Group))+
@@ -26,8 +26,8 @@ ggplot(drawdata,aes(x=Axis.1,y=Axis.2))+
   geom_xsidedensity(aes(fill = groupshort), alpha = 0.4, show.legend = FALSE)+
   geom_ysidedensity(aes(fill = groupshort), alpha = 0.4, show.legend = FALSE)
 #Figure1E
-myallC1bray=readRDS('ForGithub-HCC/Figure1E_TCG_Bray.rds')
-myallbray=readRDS('ForGithub-HCC/Figure1E_AllHQMAG_Bray.rds')
+myallC1bray=readRDS('Figure1E_TCG_Bray.rds')
+myallbray=readRDS('Figure1E_AllHQMAG_Bray.rds')
 set.seed(333)
 mantel(myallC1bray,myallbray)
 myallC1bray_pcoa=pcoa(myallC1bray)
