@@ -1,3 +1,5 @@
+library(ggplot2)
+
 #Figure6B
 data=readRDS("Fig6B.rds")
 ggplot(data,aes(x=specificity,y=sensitivity))+
@@ -6,9 +8,8 @@ ggplot(data,aes(x=specificity,y=sensitivity))+
   labs(x="1-Specificity",y="Sensitivity")+
   theme_bw()+
   theme(text=element_text(size = 40))+
-  annotate("text",size=10,x=0.8,y=0.25,label=paste("AUC = ",round(g$auc,2),
-                                                   "\n95% CI: (",round(ci95$ci[1],2),"-",round(ci95$ci[3],2),")",
-                                                   sep = ""))
+  annotate("text",size=10,x=0.8,y=0.25,label="AUC = 0.73\n95% CI: (0.56-0.89)")
+
 #Figure6C
 yintercept=0.36
 aucvalue=0.50
@@ -29,9 +30,8 @@ ggplot(data,aes(x=specificity,y=sensitivity))+
   labs(x="1-Specificity",y="Sensitivity")+
   theme_bw()+
   theme(text=element_text(size = 40))+
-  annotate("text",size=10,x=0.8,y=0.25,label=paste("AUC = ",round(g$auc,2),
-                                                   "\n95% CI: (",round(ci95$ci[1],2),"-",round(ci95$ci[3],2),")",
-                                                   sep = ""))
+  annotate("text",size=10,x=0.8,y=0.25,label="AUC = 0.64\n95% CI: (0.51-0.76)")
+
 #Figure6F
 yintercept=0.48
 aucvalue=0.63
