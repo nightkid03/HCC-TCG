@@ -1,3 +1,5 @@
+library(ggplot2)
+
 myallRecurrence_2y_color=c("No_Recurrence"="#5F8AFE","Recurrence"="#FDBE60")
 #Figure5A
 data=readRDS("Fig5A.rds")
@@ -27,9 +29,8 @@ ggplot(data,aes(x=specificity,y=sensitivity))+
   labs(x="1-Specificity",y="Sensitivity")+
   theme_bw()+
   theme(text=element_text(size = 40))+
-  annotate("text",size=10,x=0.8,y=0.25,label=paste("AUC = ",round(g$auc,2),
-                                                   "\n95% CI: (",round(ci95$ci[1],2),"-",round(ci95$ci[3],2),")",
-                                                   sep = ""))
+  annotate("text",size=10,x=0.8,y=0.25,label="AUC = 0.78\n95% CI: (0.56-1)")
+
 #Figure5E
 yintercept=0.37
 aucvalule=0.72
@@ -50,9 +51,8 @@ ggplot(data,aes(x=specificity,y=sensitivity))+
   labs(x="1-Specificity",y="Sensitivity")+
   theme_bw()+
   theme(text=element_text(size = 40))+
-  annotate("text",size=10,x=0.8,y=0.25,label=paste("AUC = ",round(g$auc,2),
-                                                   "\n95% CI: (",round(ci95$ci[1],2),"-",round(ci95$ci[3],2),")",
-                                                   sep = ""))
+  annotate("text",size=10,x=0.8,y=0.25,label="AUC = 0.84\n95% CI: (0.69-1)")
+
 #Figure5G
 yintercept=0.34
 aucvalule=0.80
@@ -73,9 +73,8 @@ ggplot(data,aes(x=specificity,y=sensitivity))+
   labs(x="1-Specificity",y="Sensitivity")+
   theme_bw()+
   theme(text=element_text(size = 40))+
-  annotate("text",size=10,x=0.8,y=0.25,label=paste("AUC = ",round(g$auc,2),
-                                                   "\n95% CI: (",round(ci95$ci[1],2),"-",round(ci95$ci[3],2),")",
-                                                   sep = ""))
+  annotate("text",size=10,x=0.8,y=0.25,label="AUC = 0.89\n95% CI: (0.74-1)")
+
 #Figure5I
 yintercept=0.1
 aucvalule=0.64
