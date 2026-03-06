@@ -1,0 +1,1120 @@
+user_genome	classification	ID
+PLC123.12	Eubacterium_R sp000434995	Eubacterium_R sp000434995 PLC123.12
+PLC123.3	Agathobacter sp900543445	Agathobacter sp900543445 PLC123.3
+PLC123.5	Lachnospira eligens_A	Lachnospira eligens_A PLC123.5
+PLC136.2	Bacteroides uniformis	Bacteroides uniformis PLC136.2
+PLC136.3	Parasutterella gallistercoris	Parasutterella gallistercoris PLC136.3
+PLC187.15	Amedibacterium intestinale	Amedibacterium intestinale PLC187.15
+PLC187.2	Fusicatenibacter saccharivorans	Fusicatenibacter saccharivorans PLC187.2
+PLC187.3	Eggerthella lenta	Eggerthella lenta PLC187.3
+PLC188.11	Ruminococcus_E sp003526955	Ruminococcus_E sp003526955 PLC188.11
+PLC188.12	Alistipes shahii	Alistipes shahii PLC188.12
+PLC188.14	Alistipes putredinis	Alistipes putredinis PLC188.14
+PLC188.18	Oscillospiraceae	Oscillospiraceae PLC188.18
+PLC188.2	Megamonas funiformis	Megamonas funiformis PLC188.2
+PLC188.23	Oscillospiraceae	Oscillospiraceae PLC188.23
+PLC188.24	Ruminococcus_C sp000433635	Ruminococcus_C sp000433635 PLC188.24
+PLC189.11	Dorea_A longicatena_B	Dorea_A longicatena_B PLC189.11
+PLC189.13	Enterococcus faecalis	Enterococcus faecalis PLC189.13
+PLC189.14	Collinsella	Collinsella PLC189.14
+PLC189.19	Agathobaculum sp003481705	Agathobaculum sp003481705 PLC189.19
+PLC189.22	Dialister sp002320515	Dialister sp002320515 PLC189.22
+PLC189.5	Prevotella sp015074785	Prevotella sp015074785 PLC189.5
+PLC189.9	Phocaeicola plebeius_A	Phocaeicola plebeius_A PLC189.9
+PLC190.13	Acutalibacteraceae	Acutalibacteraceae PLC190.13
+PLC190.17	Bifidobacterium pseudocatenulatum	Bifidobacterium pseudocatenulatum PLC190.17
+PLC190.2	Ruminococcus_E bromii_B	Ruminococcus_E bromii_B PLC190.2
+PLC190.20	Bifidobacterium longum	Bifidobacterium longum PLC190.20
+PLC190.4	Gemmiger formicilis	Gemmiger formicilis PLC190.4
+PLC190.7	Enterococcus_B lactis	Enterococcus_B lactis PLC190.7
+PLC191.21	Ruminococcus_E sp934476515	Ruminococcus_E sp934476515 PLC191.21
+PLC191.22	Parasutterella gallistercoris	Parasutterella gallistercoris PLC191.22
+PLC192.1	Fusobacterium_A ulcerans	Fusobacterium_A ulcerans PLC192.1
+PLC192.13	Faecalimonas sp000209385	Faecalimonas sp000209385 PLC192.13
+PLC192.16	Clostridium_AQ innocuum	Clostridium_AQ innocuum PLC192.16
+PLC192.21	Flavonifractor plautii	Flavonifractor plautii PLC192.21
+PLC192.24	Faecalibacterium longum	Faecalibacterium longum PLC192.24
+PLC192.7	Anaerobutyricum hallii	Anaerobutyricum hallii PLC192.7
+PLC192.8	Bifidobacterium adolescentis	Bifidobacterium adolescentis PLC192.8
+PLC192.9	Schaedlerella glycyrrhizinilytica_A	Schaedlerella glycyrrhizinilytica_A PLC192.9
+PLC193.12	Lachnospirales	Lachnospirales PLC193.12
+PLC193.8	Agathobacter rectalis	Agathobacter rectalis PLC193.8
+PLC193.9	Collinsella intestinalis	Collinsella intestinalis PLC193.9
+PLC194.15	Collinsella sp003458415	Collinsella sp003458415 PLC194.15
+PLC194.32	Blautia_A wexlerae	Blautia_A wexlerae PLC194.32
+PLC194.40	Megamonas funiformis	Megamonas funiformis PLC194.40
+PLC196.11	Acutalibacteraceae	Acutalibacteraceae PLC196.11
+PLC196.4	Collinsella sp905215385	Collinsella sp905215385 PLC196.4
+PLC196.6	Ruminococcus_E bromii_B	Ruminococcus_E bromii_B PLC196.6
+PLC199.5	Dorea_A longicatena_B	Dorea_A longicatena_B PLC199.5
+PLC199.6	Prevotella stercorea	Prevotella stercorea PLC199.6
+PLC200.1	Corynebacterium amycolatum	Corynebacterium amycolatum PLC200.1
+PLC200.12	Corynebacterium simulans	Corynebacterium simulans PLC200.12
+PLC200.13	Varibaculum cambriense_A	Varibaculum cambriense_A PLC200.13
+PLC200.14	Peptoniphilus_C coxii	Peptoniphilus_C coxii PLC200.14
+PLC200.3	Corynebacterium aurimucosum_C	Corynebacterium aurimucosum_C PLC200.3
+PLC200.4	Corynebacterium	Corynebacterium PLC200.4
+PLC200.7	Peptoniphilus_A harei_A	Peptoniphilus_A harei_A PLC200.7
+PLC200.9	Winkia sp002849225	Winkia sp002849225 PLC200.9
+PLC201.10	Fusicatenibacter saccharivorans	Fusicatenibacter saccharivorans PLC201.10
+PLC201.14	Megasphaera sp000417505	Megasphaera sp000417505 PLC201.14
+PLC201.2	Bilophila wadsworthia	Bilophila wadsworthia PLC201.2
+PLC201.21	Fimenecus sp000432435	Fimenecus sp000432435 PLC201.21
+PLC201.23	Faecalibacterium sp900539945	Faecalibacterium sp900539945 PLC201.23
+PLC201.3	Phascolarctobacterium faecium	Phascolarctobacterium faecium PLC201.3
+PLC201.4	Limosilactobacillus mucosae	Limosilactobacillus mucosae PLC201.4
+PLC201.7	Parabacteroides distasonis	Parabacteroides distasonis PLC201.7
+PLC201.8	Ruminococcus_D bicirculans	Ruminococcus_D bicirculans PLC201.8
+PLC203.2	Ruminococcaceae	Ruminococcaceae PLC203.2
+PLC203.21	Coprococcus sp900066115	Coprococcus sp900066115 PLC203.21
+PLC203.25	Dialister succinatiphilus	Dialister succinatiphilus PLC203.25
+PLC203.26	Fimenecus sp000432435	Fimenecus sp000432435 PLC203.26
+PLC204.10	Bilophila wadsworthia	Bilophila wadsworthia PLC204.10
+PLC204.13	Agathobaculum butyriciproducens	Agathobaculum butyriciproducens PLC204.13
+PLC204.18	Holdemanella sp900556915	Holdemanella sp900556915 PLC204.18
+PLC204.19	Anaerostipes hadrus	Anaerostipes hadrus PLC204.19
+PLC204.23	Parasutterella gallistercoris	Parasutterella gallistercoris PLC204.23
+PLC204.25	Bifidobacterium pseudocatenulatum	Bifidobacterium pseudocatenulatum PLC204.25
+PLC205.13	Clostridia	Clostridia PLC205.13
+PLC205.14	Copromonas sp900066535	Copromonas sp900066535 PLC205.14
+PLC205.15	Faecalibacterium longum	Faecalibacterium longum PLC205.15
+PLC205.17	Megamonas funiformis	Megamonas funiformis PLC205.17
+PLC205.18	Bifidobacterium pseudocatenulatum	Bifidobacterium pseudocatenulatum PLC205.18
+PLC205.19	Collinsella	Collinsella PLC205.19
+PLC205.2	Longicatena caecimuris	Longicatena caecimuris PLC205.2
+PLC206.17	TANB77	TANB77 PLC206.17
+PLC206.24	Agathobacter rectalis	Agathobacter rectalis PLC206.24
+PLC206.27	Desulfovibrio porci	Desulfovibrio porci PLC206.27
+PLC206.35	Bacteroidales	Bacteroidales PLC206.35
+PLC206.40	Stercorousia sp001765415	Stercorousia sp001765415 PLC206.40
+PLC206.47	Butyribacter sp003529475	Butyribacter sp003529475 PLC206.47
+PLC206.55	Gemmiger qucibialis	Gemmiger qucibialis PLC206.55
+PLC206.65	Akkermansia muciniphila	Akkermansia muciniphila PLC206.65
+PLC206.8	Acutalibacteraceae	Acutalibacteraceae PLC206.8
+PLC206.81	Acidaminococcaceae	Acidaminococcaceae PLC206.81
+PLC206.84	Adlercreutzia equolifaciens	Adlercreutzia equolifaciens PLC206.84
+PLC207.12	Oscillospiraceae	Oscillospiraceae PLC207.12
+PLC207.21	Acutalibacteraceae	Acutalibacteraceae PLC207.21
+PLC207.24	Agathobacter rectalis	Agathobacter rectalis PLC207.24
+PLC208.10	Eisenbergiella sp900066775	Eisenbergiella sp900066775 PLC208.10
+PLC208.13	Collinsella	Collinsella PLC208.13
+PLC208.16	Bifidobacterium pseudocatenulatum	Bifidobacterium pseudocatenulatum PLC208.16
+PLC208.17	Clostridia	Clostridia PLC208.17
+PLC208.21	Faecalibacterium longum	Faecalibacterium longum PLC208.21
+PLC209.23	Fusicatenibacter saccharivorans	Fusicatenibacter saccharivorans PLC209.23
+PLC209.29	Ruminococcus_E bromii_B	Ruminococcus_E bromii_B PLC209.29
+PLC210.1	Bifidobacterium pseudocatenulatum	Bifidobacterium pseudocatenulatum PLC210.1
+PLC210.10	Dysosmobacter welbionis	Dysosmobacter welbionis PLC210.10
+PLC210.12	Agathobacter faecis	Agathobacter faecis PLC210.12
+PLC210.23	Ruminococcus_E bromii_B	Ruminococcus_E bromii_B PLC210.23
+PLC210.24	Faecalibacterium duncaniae	Faecalibacterium duncaniae PLC210.24
+PLC210.9	Barnesiella intestinihominis	Barnesiella intestinihominis PLC210.9
+PLC211.21	Eubacterium_R sp000436835	Eubacterium_R sp000436835 PLC211.21
+PLC211.25	Limivicinus sp900547315	Limivicinus sp900547315 PLC211.25
+PLC211.34	Fusicatenibacter saccharivorans	Fusicatenibacter saccharivorans PLC211.34
+PLC211.35	Oscillospiraceae	Oscillospiraceae PLC211.35
+PLC211.40	Christensenellales	Christensenellales PLC211.40
+PLC211.71	F23-B02 sp001916715	F23-B02 sp001916715 PLC211.71
+PLC211.8	Anaerostipes hadrus	Anaerostipes hadrus PLC211.8
+PLC211.80	Acutalibacteraceae	Acutalibacteraceae PLC211.80
+PLC212.16	Collinsella sp902363125	Collinsella sp902363125 PLC212.16
+PLC212.26	Ruminococcus_E bromii_B	Ruminococcus_E bromii_B PLC212.26
+PLC212.6	Bifidobacterium bifidum	Bifidobacterium bifidum PLC212.6
+PLC212.7	Ruminococcus_D bicirculans	Ruminococcus_D bicirculans PLC212.7
+PLC212.9	Blautia_A massiliensis	Blautia_A massiliensis PLC212.9
+PLC213.1	Faecalimonas umbilicata	Faecalimonas umbilicata PLC213.1
+PLC213.4	Roseburia sp003470905	Roseburia sp003470905 PLC213.4
+PLC213.8	Lachnospira eligens_A	Lachnospira eligens_A PLC213.8
+PLC214.1	Collinsella sp905215385	Collinsella sp905215385 PLC214.1
+PLC214.10	Gemmiger qucibialis	Gemmiger qucibialis PLC214.10
+PLC214.12	Eubacterium_R sp000436835	Eubacterium_R sp000436835 PLC214.12
+PLC214.21	Christensenellales	Christensenellales PLC214.21
+PLC214.23	Streptococcus salivarius	Streptococcus salivarius PLC214.23
+PLC214.30	Ruminococcus_E bromii_B	Ruminococcus_E bromii_B PLC214.30
+PLC214.4	Ruminococcaceae	Ruminococcaceae PLC214.4
+PLC215.11	Bacteroides ovatus	Bacteroides ovatus PLC215.11
+PLC215.12	Eisenbergiella sp900066775	Eisenbergiella sp900066775 PLC215.12
+PLC215.14	Ruminococcus_E bromii_B	Ruminococcus_E bromii_B PLC215.14
+PLC215.17	Blautia stercoris	Blautia stercoris PLC215.17
+PLC215.19	Blautia_A wexlerae	Blautia_A wexlerae PLC215.19
+PLC215.6	Clostridia	Clostridia PLC215.6
+PLC218.10	Faecalibacterium longum	Faecalibacterium longum PLC218.10
+PLC218.11	Akkermansia muciniphila	Akkermansia muciniphila PLC218.11
+PLC218.18	Bifidobacterium pseudocatenulatum	Bifidobacterium pseudocatenulatum PLC218.18
+PLC218.20	Bifidobacterium longum	Bifidobacterium longum PLC218.20
+PLC218.21	Phocaeicola vulgatus	Phocaeicola vulgatus PLC218.21
+PLC218.22	Prevotella sp015074785	Prevotella sp015074785 PLC218.22
+PLC218.7	Copromonas sp900066535	Copromonas sp900066535 PLC218.7
+PLC219.12	Ruminococcus_E bromii_B	Ruminococcus_E bromii_B PLC219.12
+PLC219.23	Bifidobacterium pseudocatenulatum	Bifidobacterium pseudocatenulatum PLC219.23
+PLC219.25	Fusicatenibacter saccharivorans	Fusicatenibacter saccharivorans PLC219.25
+PLC221.2	Ruminiclostridium_E siraeum	Ruminiclostridium_E siraeum PLC221.2
+PLC221.20	Lachnospiraceae	Lachnospiraceae PLC221.20
+PLC221.22	TANB77	TANB77 PLC221.22
+PLC221.24	Lachnospira eligens_A	Lachnospira eligens_A PLC221.24
+PLC221.25	Eubacterium_F sp003491505	Eubacterium_F sp003491505 PLC221.25
+PLC221.29	Clostridia	Clostridia PLC221.29
+PLC221.39	Christensenellales	Christensenellales PLC221.39
+PLC221.44	Bifidobacterium adolescentis	Bifidobacterium adolescentis PLC221.44
+PLC221.45	Anaerotardibacter sp000435475	Anaerotardibacter sp000435475 PLC221.45
+PLC221.5	Ruminococcus_E bromii_B	Ruminococcus_E bromii_B PLC221.5
+PLC222.1	Agathobaculum butyriciproducens	Agathobaculum butyriciproducens PLC222.1
+PLC222.17	Alloprevotella sp900540885	Alloprevotella sp900540885 PLC222.17
+PLC222.19	Eubacterium_R sp000436835	Eubacterium_R sp000436835 PLC222.19
+PLC222.21	Dialister sp900541485	Dialister sp900541485 PLC222.21
+PLC222.5	Lactococcus petauri	Lactococcus petauri PLC222.5
+PLC223.13	Gemmiger qucibialis	Gemmiger qucibialis PLC223.13
+PLC223.16	Parabacteroides distasonis	Parabacteroides distasonis PLC223.16
+PLC223.2	Bacteroides uniformis	Bacteroides uniformis PLC223.2
+PLC223.20	Alistipes finegoldii	Alistipes finegoldii PLC223.20
+PLC223.21	Alphaproteobacteria	Alphaproteobacteria PLC223.21
+PLC223.22	Dysosmobacter sp001916835	Dysosmobacter sp001916835 PLC223.22
+PLC223.25	Akkermansia muciniphila_B	Akkermansia muciniphila_B PLC223.25
+PLC223.29	Eubacterium_R sp000434995	Eubacterium_R sp000434995 PLC223.29
+PLC223.3	Duodenibacillus intestinigallinarum	Duodenibacillus intestinigallinarum PLC223.3
+PLC224.1	Bifidobacterium longum	Bifidobacterium longum PLC224.1
+PLC224.12	Eubacterium_G sp000435815	Eubacterium_G sp000435815 PLC224.12
+PLC224.2	Escherichia coli	Escherichia coli PLC224.2
+PLC224.3	Anaerobutyricum hallii	Anaerobutyricum hallii PLC224.3
+PLC224.6	Agathobaculum butyriciproducens	Agathobaculum butyriciproducens PLC224.6
+PLC224.7	Blautia_A caecimuris	Blautia_A caecimuris PLC224.7
+PLC227.19	Fusobacterium_A varium	Fusobacterium_A varium PLC227.19
+PLC227.20	Ruminococcus_E bromii_B	Ruminococcus_E bromii_B PLC227.20
+PLC227.28	Faecalibacterium longum	Faecalibacterium longum PLC227.28
+PLC227.31	Lachnospira sp000437735	Lachnospira sp000437735 PLC227.31
+PLC228.19	Megamonas funiformis	Megamonas funiformis PLC228.19
+PLC228.20	Escherichia coli	Escherichia coli PLC228.20
+PLC228.4	Bifidobacterium pseudocatenulatum	Bifidobacterium pseudocatenulatum PLC228.4
+PLC228.5	Ruminococcus_E bromii_B	Ruminococcus_E bromii_B PLC228.5
+PLC229.11	Alistipes onderdonkii	Alistipes onderdonkii PLC229.11
+PLC229.14	Oscillospiraceae	Oscillospiraceae PLC229.14
+PLC229.16	Anaerostipes caccae	Anaerostipes caccae PLC229.16
+PLC229.2	Bifidobacterium dentium	Bifidobacterium dentium PLC229.2
+PLC229.20	Butyricimonas faecihominis	Butyricimonas faecihominis PLC229.20
+PLC229.22	Barnesiella intestinihominis	Barnesiella intestinihominis PLC229.22
+PLC229.6	Akkermansia muciniphila	Akkermansia muciniphila PLC229.6
+PLC230.14	Agathobacter faecis	Agathobacter faecis PLC230.14
+PLC230.17	Agathobacter rectalis	Agathobacter rectalis PLC230.17
+PLC230.21	TANB77	TANB77 PLC230.21
+PLC230.24	Phascolarctobacterium faecium	Phascolarctobacterium faecium PLC230.24
+PLC231.11	Christensenellales	Christensenellales PLC231.11
+PLC231.12	Phascolarctobacterium faecium	Phascolarctobacterium faecium PLC231.12
+PLC231.14	Ruminococcus_D bicirculans	Ruminococcus_D bicirculans PLC231.14
+PLC231.19	Gemmiger sp900539695	Gemmiger sp900539695 PLC231.19
+PLC231.24	Lachnospira eligens_A	Lachnospira eligens_A PLC231.24
+PLC231.26	Anaerotardibacter sp000435475	Anaerotardibacter sp000435475 PLC231.26
+PLC231.29	RF39	RF39 PLC231.29
+PLC231.31	Ruminococcus_E sp934476515	Ruminococcus_E sp934476515 PLC231.31
+PLC231.32	Agathobacter rectalis	Agathobacter rectalis PLC231.32
+PLC231.33	Megamonas funiformis	Megamonas funiformis PLC231.33
+PLC231.34	Bifidobacterium pseudocatenulatum	Bifidobacterium pseudocatenulatum PLC231.34
+PLC231.4	Agathobacter faecis	Agathobacter faecis PLC231.4
+PLC233.1	Agathobacter rectalis	Agathobacter rectalis PLC233.1
+PLC233.12	Finegoldia magna	Finegoldia magna PLC233.12
+PLC233.16	Anaerococcus vaginalis	Anaerococcus vaginalis PLC233.16
+PLC233.19	Klebsiella quasipneumoniae	Klebsiella quasipneumoniae PLC233.19
+PLC233.2	Fenollaria sp900539225	Fenollaria sp900539225 PLC233.2
+PLC233.5	Prevotella sp000434975	Prevotella sp000434975 PLC233.5
+PLC233.7	Fusicatenibacter saccharivorans	Fusicatenibacter saccharivorans PLC233.7
+PLC233.9	Streptococcus alactolyticus	Streptococcus alactolyticus PLC233.9
+PLC234.11	Acutalibacteraceae	Acutalibacteraceae PLC234.11
+PLC234.16	Lachnospira rogosae	Lachnospira rogosae PLC234.16
+PLC234.17	Agathobacter faecis	Agathobacter faecis PLC234.17
+PLC234.18	Parabacteroides distasonis	Parabacteroides distasonis PLC234.18
+PLC235.10	Comamonas	Comamonas PLC235.10
+PLC235.18	Parabacteroides distasonis	Parabacteroides distasonis PLC235.18
+PLC235.25	Blautia_A wexlerae	Blautia_A wexlerae PLC235.25
+PLC235.27	Ruminococcus_E bromii_B	Ruminococcus_E bromii_B PLC235.27
+PLC235.3	Akkermansia muciniphila	Akkermansia muciniphila PLC235.3
+PLC235.4	Dialister sp900538805	Dialister sp900538805 PLC235.4
+PLC235.6	Gemmiger qucibialis	Gemmiger qucibialis PLC235.6
+PLC236.1	Vescimonas coprocola	Vescimonas coprocola PLC236.1
+PLC236.12	Christensenellales	Christensenellales PLC236.12
+PLC236.17	Clostridia	Clostridia PLC236.17
+PLC236.19	Agathobacter rectalis	Agathobacter rectalis PLC236.19
+PLC236.24	Weissella paramesenteroides	Weissella paramesenteroides PLC236.24
+PLC236.28	Acutalibacteraceae	Acutalibacteraceae PLC236.28
+PLC236.31	Collinsella sp003439125	Collinsella sp003439125 PLC236.31
+PLC236.5	Faecalibacillus intestinalis	Faecalibacillus intestinalis PLC236.5
+PLC239.11	Limosilactobacillus mucosae	Limosilactobacillus mucosae PLC239.11
+PLC239.15	Copromonas sp000435795	Copromonas sp000435795 PLC239.15
+PLC239.21	Eubacterium_R sp000436835	Eubacterium_R sp000436835 PLC239.21
+PLC239.22	Bifidobacterium pseudocatenulatum	Bifidobacterium pseudocatenulatum PLC239.22
+PLC239.23	Ruminococcus_E bromii_B	Ruminococcus_E bromii_B PLC239.23
+PLC239.5	Eggerthella lenta	Eggerthella lenta PLC239.5
+PLC239.6	Parasutterella gallistercoris	Parasutterella gallistercoris PLC239.6
+PLC239.8	Pararoseburia lenta	Pararoseburia lenta PLC239.8
+PLC240.10	Christensenellales	Christensenellales PLC240.10
+PLC240.18	Ruminiclostridium_E siraeum	Ruminiclostridium_E siraeum PLC240.18
+PLC240.21	Oscillospiraceae	Oscillospiraceae PLC240.21
+PLC240.28	Agathobaculum butyriciproducens	Agathobaculum butyriciproducens PLC240.28
+PLC240.34	UMGS1820 sp900545865	UMGS1820 sp900545865 PLC240.34
+PLC240.6	Christensenellales	Christensenellales PLC240.6
+PLC241.10	Faecalibacillus intestinalis	Faecalibacillus intestinalis PLC241.10
+PLC241.20	Akkermansia muciniphila	Akkermansia muciniphila PLC241.20
+PLC241.21	Alistipes onderdonkii	Alistipes onderdonkii PLC241.21
+PLC241.22	Mediterraneibacter faecis	Mediterraneibacter faecis PLC241.22
+PLC241.24	Phascolarctobacterium faecium	Phascolarctobacterium faecium PLC241.24
+PLC241.4	Oscillospiraceae	Oscillospiraceae PLC241.4
+PLC241.7	Vescimonas coprocola	Vescimonas coprocola PLC241.7
+PLC242.16	Acutalibacteraceae	Acutalibacteraceae PLC242.16
+PLC242.17	Holdemanella porci_A	Holdemanella porci_A PLC242.17
+PLC242.18	Prevotella sp015074785	Prevotella sp015074785 PLC242.18
+PLC242.20	Dialister invisus	Dialister invisus PLC242.20
+PLC242.21	Collinsella sp003439125	Collinsella sp003439125 PLC242.21
+PLC244.2	TANB77	TANB77 PLC244.2
+PLC244.21	Faecalibacillus intestinalis	Faecalibacillus intestinalis PLC244.21
+PLC244.23	Acetatifactor intestinalis	Acetatifactor intestinalis PLC244.23
+PLC244.3	Eisenbergiella sp900066775	Eisenbergiella sp900066775 PLC244.3
+PLC244.32	Limisoma sp000437795	Limisoma sp000437795 PLC244.32
+PLC244.33	Lachnospira eligens_A	Lachnospira eligens_A PLC244.33
+PLC245.10	Evtepia excrementipullorum	Evtepia excrementipullorum PLC245.10
+PLC245.19	Barnesiella intestinihominis	Barnesiella intestinihominis PLC245.19
+PLC245.20	Coprococcus eutactus_A	Coprococcus eutactus_A PLC245.20
+PLC245.27	Prevotella copri_B	Prevotella copri_B PLC245.27
+PLC245.30	TANB77	TANB77 PLC245.30
+PLC245.32	Angelakisella sp900547385	Angelakisella sp900547385 PLC245.32
+PLC245.38	Fusicatenibacter saccharivorans	Fusicatenibacter saccharivorans PLC245.38
+PLC245.39	Agathobacter rectalis	Agathobacter rectalis PLC245.39
+PLC245.5	Desulfovibrio sp900556755	Desulfovibrio sp900556755 PLC245.5
+PLC245.6	Anaerotardibacter sp000435475	Anaerotardibacter sp000435475 PLC245.6
+PLC246.18	Intestinibacter bartlettii	Intestinibacter bartlettii PLC246.18
+PLC246.19	Bacteroides stercoris	Bacteroides stercoris PLC246.19
+PLC246.21	Anaerobutyricum hallii	Anaerobutyricum hallii PLC246.21
+PLC246.32	Bifidobacterium pseudocatenulatum	Bifidobacterium pseudocatenulatum PLC246.32
+PLC246.34	Fusicatenibacter saccharivorans	Fusicatenibacter saccharivorans PLC246.34
+PLC246.36	Ruminococcus_D bicirculans	Ruminococcus_D bicirculans PLC246.36
+PLC246.6	Lachnospira rogosae	Lachnospira rogosae PLC246.6
+PLC247.18	Agathobaculum butyriciproducens	Agathobaculum butyriciproducens PLC247.18
+PLC247.20	Bifidobacterium pseudocatenulatum	Bifidobacterium pseudocatenulatum PLC247.20
+PLC247.23	Anaerostipes hadrus	Anaerostipes hadrus PLC247.23
+PLC248.10	Paraprevotella xylaniphila	Paraprevotella xylaniphila PLC248.10
+PLC248.14	Faecalibacterium longum	Faecalibacterium longum PLC248.14
+PLC248.17	Blautia_A sp003471165	Blautia_A sp003471165 PLC248.17
+PLC248.5	Eubacterium_R sp000436835	Eubacterium_R sp000436835 PLC248.5
+PLC248.7	Parabacteroides merdae	Parabacteroides merdae PLC248.7
+PLC248.9	Bacteroides uniformis	Bacteroides uniformis PLC248.9
+PLC249.11	Escherichia coli	Escherichia coli PLC249.11
+PLC249.16	Eubacterium_I ramulus	Eubacterium_I ramulus PLC249.16
+PLC249.17	Haemophilus_D sp900764435	Haemophilus_D sp900764435 PLC249.17
+PLC249.21	Fusicatenibacter saccharivorans	Fusicatenibacter saccharivorans PLC249.21
+PLC249.22	Bifidobacterium pseudocatenulatum	Bifidobacterium pseudocatenulatum PLC249.22
+PLC250.14	Collinsella	Collinsella PLC250.14
+PLC250.15	Tidjanibacter inops	Tidjanibacter inops PLC250.15
+PLC250.17	Blautia_A faecis	Blautia_A faecis PLC250.17
+PLC250.19	Faecalibacillus intestinalis	Faecalibacillus intestinalis PLC250.19
+PLC250.2	Clostridium_Q fessum	Clostridium_Q fessum PLC250.2
+PLC250.23	Clostridium_AP scindens	Clostridium_AP scindens PLC250.23
+PLC251.13	Gemmiger qucibialis	Gemmiger qucibialis PLC251.13
+PLC251.14	Alistipes_A ihumii	Alistipes_A ihumii PLC251.14
+PLC251.16	Barnesiella intestinihominis	Barnesiella intestinihominis PLC251.16
+PLC251.17	Muribaculaceae	Muribaculaceae PLC251.17
+PLC251.19	Vescimonas sp900545585	Vescimonas sp900545585 PLC251.19
+PLC251.28	TANB77	TANB77 PLC251.28
+PLC251.32	Faecalibacillus intestinalis	Faecalibacillus intestinalis PLC251.32
+PLC251.37	Pseudoruminococcus massiliensis	Pseudoruminococcus massiliensis PLC251.37
+PLC251.39	Acutalibacteraceae	Acutalibacteraceae PLC251.39
+PLC253.18	Lactobacillus gallinarum	Lactobacillus gallinarum PLC253.18
+PLC253.19	Oscillospiraceae	Oscillospiraceae PLC253.19
+PLC253.21	Fusicatenibacter saccharivorans	Fusicatenibacter saccharivorans PLC253.21
+PLC253.25	Ruminococcus_C sp000980705	Ruminococcus_C sp000980705 PLC253.25
+PLC254.12	Alistipes onderdonkii	Alistipes onderdonkii PLC254.12
+PLC254.19	Anaerobutyricum hallii	Anaerobutyricum hallii PLC254.19
+PLC254.5	Acutalibacteraceae	Acutalibacteraceae PLC254.5
+PLC254.9	Ruminococcus_D bicirculans	Ruminococcus_D bicirculans PLC254.9
+PLC256.10	Phascolarctobacterium sp900544795	Phascolarctobacterium sp900544795 PLC256.10
+PLC256.11	Clostridia	Clostridia PLC256.11
+PLC256.15	Agathobaculum butyriciproducens	Agathobaculum butyriciproducens PLC256.15
+PLC256.16	Akkermansia sp905200945	Akkermansia sp905200945 PLC256.16
+PLC256.4	Fusobacterium_A ulcerans	Fusobacterium_A ulcerans PLC256.4
+PLC257.13	Oscillospiraceae	Oscillospiraceae PLC257.13
+PLC257.20	Fusobacterium_A mortiferum	Fusobacterium_A mortiferum PLC257.20
+PLC257.23	Gemmiger formicilis	Gemmiger formicilis PLC257.23
+PLC257.5	Escherichia coli	Escherichia coli PLC257.5
+PLC258.11	Barnesiella intestinihominis	Barnesiella intestinihominis PLC258.11
+PLC258.14	Vescimonas coprocola	Vescimonas coprocola PLC258.14
+PLC258.15	Adlercreutzia equolifaciens	Adlercreutzia equolifaciens PLC258.15
+PLC258.18	Dialister succinatiphilus	Dialister succinatiphilus PLC258.18
+PLC258.20	Mediterraneibacter faecis	Mediterraneibacter faecis PLC258.20
+PLC258.21	Gemmiger formicilis	Gemmiger formicilis PLC258.21
+PLC258.23	TANB77	TANB77 PLC258.23
+PLC258.24	Coprococcus sp000154245	Coprococcus sp000154245 PLC258.24
+PLC258.30	Roseburia hominis	Roseburia hominis PLC258.30
+PLC258.32	Eisenbergiella sp900066775	Eisenbergiella sp900066775 PLC258.32
+PLC258.35	Ruminococcus_E bromii_B	Ruminococcus_E bromii_B PLC258.35
+PLC258.41	Fusicatenibacter saccharivorans	Fusicatenibacter saccharivorans PLC258.41
+PLC258.42	Christensenellales	Christensenellales PLC258.42
+PLC258.45	Ruminococcus_D bicirculans	Ruminococcus_D bicirculans PLC258.45
+PLC259.12	Mediterraneibacter torques	Mediterraneibacter torques PLC259.12
+PLC259.17	Thomasclavelia ramosa	Thomasclavelia ramosa PLC259.17
+PLC259.20	Coprobacillus cateniformis	Coprobacillus cateniformis PLC259.20
+PLC259.24	Clostridia	Clostridia PLC259.24
+PLC260.15	TANB77	TANB77 PLC260.15
+PLC260.16	Alistipes putredinis	Alistipes putredinis PLC260.16
+PLC260.25	Lachnospira eligens_A	Lachnospira eligens_A PLC260.25
+PLC260.26	Ruminococcus_C sp000433635	Ruminococcus_C sp000433635 PLC260.26
+PLC260.31	Megamonas funiformis	Megamonas funiformis PLC260.31
+PLC262.1	Collinsella sp003465825	Collinsella sp003465825 PLC262.1
+PLC262.3	Bacteroides uniformis	Bacteroides uniformis PLC262.3
+PLC262.7	Ruminococcus_E bromii_B	Ruminococcus_E bromii_B PLC262.7
+PLC264.16	Bifidobacterium longum	Bifidobacterium longum PLC264.16
+PLC264.18	Romboutsia timonensis	Romboutsia timonensis PLC264.18
+PLC264.21	Bacteroides fragilis	Bacteroides fragilis PLC264.21
+PLC265.11	Fimenecus sp000432435	Fimenecus sp000432435 PLC265.11
+PLC265.12	Mesosutterella multiformis	Mesosutterella multiformis PLC265.12
+PLC265.6	Eubacterium_R sp000434995	Eubacterium_R sp000434995 PLC265.6
+PLC266.1	Flavonifractor plautii	Flavonifractor plautii PLC266.1
+PLC266.10	Collinsella	Collinsella PLC266.10
+PLC266.12	Parabacteroides distasonis	Parabacteroides distasonis PLC266.12
+PLC266.14	Clostridium_Q sp000435655	Clostridium_Q sp000435655 PLC266.14
+PLC266.3	Blautia sp900541955	Blautia sp900541955 PLC266.3
+PLC267.14	Faecalibacillus intestinalis	Faecalibacillus intestinalis PLC267.14
+PLC267.20	Ruminococcus_E bromii_B	Ruminococcus_E bromii_B PLC267.20
+PLC267.21	Parasutterella gallistercoris	Parasutterella gallistercoris PLC267.21
+PLC267.4	Phascolarctobacterium faecium	Phascolarctobacterium faecium PLC267.4
+PLC267.6	Fusicatenibacter saccharivorans	Fusicatenibacter saccharivorans PLC267.6
+PLC267.8	Collinsella sp902405995	Collinsella sp902405995 PLC267.8
+PLC268.19	Oscillospiraceae	Oscillospiraceae PLC268.19
+PLC268.2	Collinsella tanakaei	Collinsella tanakaei PLC268.2
+PLC268.24	Blautia_A wexlerae	Blautia_A wexlerae PLC268.24
+PLC268.25	Acidaminococcus intestini	Acidaminococcus intestini PLC268.25
+PLC268.37	Bifidobacterium adolescentis	Bifidobacterium adolescentis PLC268.37
+PLC268.4	Mediterraneibacter faecis	Mediterraneibacter faecis PLC268.4
+PLC268.40	Corynebacterium glucuronolyticum	Corynebacterium glucuronolyticum PLC268.40
+PLC268.41	Fimenecus sp000432435	Fimenecus sp000432435 PLC268.41
+PLC268.42	Ligilactobacillus ruminis	Ligilactobacillus ruminis PLC268.42
+PLC268.7	Vescimonas coprocola	Vescimonas coprocola PLC268.7
+PLC268.8	Finegoldia magna	Finegoldia magna PLC268.8
+PLC274.12	Blautia_A wexlerae	Blautia_A wexlerae PLC274.12
+PLC274.17	Bifidobacterium longum	Bifidobacterium longum PLC274.17
+PLC274.20	Streptococcus pasteurianus	Streptococcus pasteurianus PLC274.20
+PLC274.3	Flavonifractor plautii	Flavonifractor plautii PLC274.3
+PLC274.5	Bifidobacterium pseudocatenulatum	Bifidobacterium pseudocatenulatum PLC274.5
+PLC274.6	Parabacteroides distasonis	Parabacteroides distasonis PLC274.6
+PLC275.1	Prevotella copri_B	Prevotella copri_B PLC275.1
+PLC275.13	Gemmiger qucibialis	Gemmiger qucibialis PLC275.13
+PLC275.3	Streptococcus salivarius	Streptococcus salivarius PLC275.3
+PLC275.9	Barnesiella intestinihominis	Barnesiella intestinihominis PLC275.9
+PLC280.11	Phascolarctobacterium faecium	Phascolarctobacterium faecium PLC280.11
+PLC280.32	Agathobaculum butyriciproducens	Agathobaculum butyriciproducens PLC280.32
+PLC280.9	Leuconostoc lactis_A	Leuconostoc lactis_A PLC280.9
+PLC285.12	Faecalibacillus intestinalis	Faecalibacillus intestinalis PLC285.12
+PLC285.15	Gemmiger formicilis	Gemmiger formicilis PLC285.15
+PLC285.16	Phocaeicola plebeius_A	Phocaeicola plebeius_A PLC285.16
+PLC285.17	Bifidobacterium pseudocatenulatum	Bifidobacterium pseudocatenulatum PLC285.17
+PLC285.20	Lachnospirales	Lachnospirales PLC285.20
+PLC286.11	Gemmiger formicilis	Gemmiger formicilis PLC286.11
+PLC286.14	TANB77	TANB77 PLC286.14
+PLC286.22	Prevotella stercorea	Prevotella stercorea PLC286.22
+PLC286.23	Prevotella copri_B	Prevotella copri_B PLC286.23
+PLC286.24	Adlercreutzia equolifaciens	Adlercreutzia equolifaciens PLC286.24
+PLC286.3	Eubacterium_G ventriosum	Eubacterium_G ventriosum PLC286.3
+PLC286.4	Collinsella sp900546115	Collinsella sp900546115 PLC286.4
+PLC287.27	Roseburia hominis	Roseburia hominis PLC287.27
+PLC287.29	Coprococcus eutactus_A	Coprococcus eutactus_A PLC287.29
+PLC287.35	Oscillospiraceae	Oscillospiraceae PLC287.35
+PLC287.42	Agathobacter faecis	Agathobacter faecis PLC287.42
+PLC287.47	Lachnospiraceae	Lachnospiraceae PLC287.47
+PLC287.48	Muribaculaceae	Muribaculaceae PLC287.48
+PLC287.54	Ruminococcus_C sp000433635	Ruminococcus_C sp000433635 PLC287.54
+PLC288.32	Christensenellales	Christensenellales PLC288.32
+PLC288.4	Evtepia excrementipullorum	Evtepia excrementipullorum PLC288.4
+PLC288.40	Catenibacterium sp000437715	Catenibacterium sp000437715 PLC288.40
+PLC288.8	Eisenbergiella sp900066775	Eisenbergiella sp900066775 PLC288.8
+PLC288.9	Dorea_A longicatena_B	Dorea_A longicatena_B PLC288.9
+PLC290.12	Acetatifactor sp900066565	Acetatifactor sp900066565 PLC290.12
+PLC290.18	Hominisplanchenecus faecis	Hominisplanchenecus faecis PLC290.18
+PLC290.2	Oscillospiraceae	Oscillospiraceae PLC290.2
+PLC290.27	Ruminococcus_E bromii_B	Ruminococcus_E bromii_B PLC290.27
+PLC290.5	TANB77	TANB77 PLC290.5
+PLC291.10	Phascolarctobacterium sp900544795	Phascolarctobacterium sp900544795 PLC291.10
+PLC291.11	Fusobacterium_A ulcerans	Fusobacterium_A ulcerans PLC291.11
+PLC291.7	Bifidobacterium longum	Bifidobacterium longum PLC291.7
+PLC291.9	Bacteroides thetaiotaomicron	Bacteroides thetaiotaomicron PLC291.9
+PLC292.10	Lentihominibacter faecis	Lentihominibacter faecis PLC292.10
+PLC292.15	Dialister sp900538805	Dialister sp900538805 PLC292.15
+PLC292.2	Limisoma sp000437795	Limisoma sp000437795 PLC292.2
+PLC292.25	TANB77	TANB77 PLC292.25
+PLC292.3	TANB77	TANB77 PLC292.3
+PLC292.5	Acutalibacteraceae	Acutalibacteraceae PLC292.5
+PLC292.7	Acutalibacteraceae	Acutalibacteraceae PLC292.7
+PLC293.6	Fusobacterium polymorphum	Fusobacterium polymorphum PLC293.6
+PLC295.23	Comamonas thiooxydans	Comamonas thiooxydans PLC295.23
+PLC295.25	Eubacterium_R sp900539775	Eubacterium_R sp900539775 PLC295.25
+PLC295.3	Faecalibacterium duncaniae	Faecalibacterium duncaniae PLC295.3
+PLC295.4	Lawsonibacter sp900066825	Lawsonibacter sp900066825 PLC295.4
+PLC295.5	Ruminococcus_E sp003526955	Ruminococcus_E sp003526955 PLC295.5
+PLC295.7	Agathobacter rectalis	Agathobacter rectalis PLC295.7
+PLC296.10	Adlercreutzia equolifaciens	Adlercreutzia equolifaciens PLC296.10
+PLC296.25	Anaerostipes hadrus_A	Anaerostipes hadrus_A PLC296.25
+PLC296.26	Bifidobacterium pseudocatenulatum	Bifidobacterium pseudocatenulatum PLC296.26
+PLC296.4	TANB77	TANB77 PLC296.4
+PLC296.9	Gemmiger formicilis	Gemmiger formicilis PLC296.9
+PLC297.13	Parasutterella excrementihominis	Parasutterella excrementihominis PLC297.13
+PLC297.20	Agathobacter rectalis	Agathobacter rectalis PLC297.20
+PLC297.3	Schaedlerella glycyrrhizinilytica_A	Schaedlerella glycyrrhizinilytica_A PLC297.3
+PLC297.6	Eggerthella lenta	Eggerthella lenta PLC297.6
+PLC297.7	Faecalibacillus intestinalis	Faecalibacillus intestinalis PLC297.7
+PLC298.16	Bifidobacterium pseudocatenulatum	Bifidobacterium pseudocatenulatum PLC298.16
+PLC298.17	Ruminococcus_E bromii_B	Ruminococcus_E bromii_B PLC298.17
+PLC298.18	Veillonella parvula_A	Veillonella parvula_A PLC298.18
+PLC298.3	Bifidobacterium adolescentis	Bifidobacterium adolescentis PLC298.3
+PLC298.4	Enterocloster sp001517625	Enterocloster sp001517625 PLC298.4
+PLC300.15	Faecalibacterium longum	Faecalibacterium longum PLC300.15
+PLC300.17	Agathobaculum butyriciproducens	Agathobaculum butyriciproducens PLC300.17
+PLC300.22	Clostridia	Clostridia PLC300.22
+PLC300.29	Bifidobacterium pseudocatenulatum	Bifidobacterium pseudocatenulatum PLC300.29
+PLC300.3	Roseburia inulinivorans	Roseburia inulinivorans PLC300.3
+PLC300.7	Faecalibacillus intestinalis	Faecalibacillus intestinalis PLC300.7
+PLC300.8	Eggerthella lenta	Eggerthella lenta PLC300.8
+PLC301.1	Mediterraneibacter faecis	Mediterraneibacter faecis PLC301.1
+PLC301.23	Bifidobacterium longum	Bifidobacterium longum PLC301.23
+PLC301.24	Collinsella sp003436275	Collinsella sp003436275 PLC301.24
+PLC301.7	Lactococcus lactis	Lactococcus lactis PLC301.7
+PLC301.8	Gemmiger sp900539695	Gemmiger sp900539695 PLC301.8
+PLC303.1	Gemmiger formicilis	Gemmiger formicilis PLC303.1
+PLC303.12	Fusicatenibacter saccharivorans	Fusicatenibacter saccharivorans PLC303.12
+PLC303.15	Bifidobacterium longum	Bifidobacterium longum PLC303.15
+PLC303.18	Bifidobacterium pseudocatenulatum	Bifidobacterium pseudocatenulatum PLC303.18
+PLC303.3	Limosilactobacillus mucosae	Limosilactobacillus mucosae PLC303.3
+PLC304.13	Akkermansia muciniphila_E	Akkermansia muciniphila_E PLC304.13
+PLC304.15	Coprococcus eutactus_A	Coprococcus eutactus_A PLC304.15
+PLC304.17	Gemmiger sp900540595	Gemmiger sp900540595 PLC304.17
+PLC304.24	Prevotella sp015074785	Prevotella sp015074785 PLC304.24
+PLC304.6	Hominisplanchenecus faecis	Hominisplanchenecus faecis PLC304.6
+PLC305.18	Clostridium_Q fessum	Clostridium_Q fessum PLC305.18
+PLC305.19	Gemmiger formicilis	Gemmiger formicilis PLC305.19
+PLC305.29	Bifidobacterium pseudocatenulatum	Bifidobacterium pseudocatenulatum PLC305.29
+PLC305.6	Oscillospiraceae	Oscillospiraceae PLC305.6
+PLC307.20	Roseburia inulinivorans	Roseburia inulinivorans PLC307.20
+PLC307.22	Fenollaria massiliensis	Fenollaria massiliensis PLC307.22
+PLC307.27	Parabacteroides distasonis	Parabacteroides distasonis PLC307.27
+PLC308.11	Roseburia hominis	Roseburia hominis PLC308.11
+PLC308.16	Acutalibacteraceae	Acutalibacteraceae PLC308.16
+PLC308.32	Lachnospira eligens_A	Lachnospira eligens_A PLC308.32
+PLC308.9	Catenibacterium sp000437715	Catenibacterium sp000437715 PLC308.9
+PLC309.13	Agathobaculum butyriciproducens	Agathobaculum butyriciproducens PLC309.13
+PLC309.14	Collinsella sp905214905	Collinsella sp905214905 PLC309.14
+PLC309.19	Ruminococcus_E bromii_B	Ruminococcus_E bromii_B PLC309.19
+PLC309.20	Gemmiger qucibialis	Gemmiger qucibialis PLC309.20
+PLC309.6	Clostridia	Clostridia PLC309.6
+PLC309.7	Lachnospiraceae	Lachnospiraceae PLC309.7
+PLC309.8	Oscillospiraceae	Oscillospiraceae PLC309.8
+PLC309.9	Faecalibacillus intestinalis	Faecalibacillus intestinalis PLC309.9
+PLC310.12	Prevotella copri_B	Prevotella copri_B PLC310.12
+PLC310.16	Eubacterium_G ventriosum	Eubacterium_G ventriosum PLC310.16
+PLC310.17	Agathobacter faecis	Agathobacter faecis PLC310.17
+PLC310.18	Agathobacter rectalis	Agathobacter rectalis PLC310.18
+PLC310.22	Parabacteroides merdae	Parabacteroides merdae PLC310.22
+PLC310.24	Ligilactobacillus salivarius	Ligilactobacillus salivarius PLC310.24
+PLC310.26	Dialister succinatiphilus	Dialister succinatiphilus PLC310.26
+PLC310.27	Fimenecus sp000432435	Fimenecus sp000432435 PLC310.27
+PLC310.4	Ruminococcus_E bromii_B	Ruminococcus_E bromii_B PLC310.4
+PLC310.7	Lactobacillus paragasseri	Lactobacillus paragasseri PLC310.7
+PLC310.9	Acetatifactor sp900066565	Acetatifactor sp900066565 PLC310.9
+PLC311.10	Fimenecus sp000432435	Fimenecus sp000432435 PLC311.10
+PLC311.13	Acutalibacteraceae	Acutalibacteraceae PLC311.13
+PLC311.14	Vescimonas coprocola	Vescimonas coprocola PLC311.14
+PLC311.19	TANB77	TANB77 PLC311.19
+PLC311.21	Christensenellales	Christensenellales PLC311.21
+PLC311.24	Alistipes_A pullistercoris	Alistipes_A pullistercoris PLC311.24
+PLC311.28	Collinsella	Collinsella PLC311.28
+PLC311.31	Clostridium_A leptum	Clostridium_A leptum PLC311.31
+PLC311.34	Bacteroides fragilis_A	Bacteroides fragilis_A PLC311.34
+PLC311.38	Ruminococcus_E bromii_B	Ruminococcus_E bromii_B PLC311.38
+PLC311.39	Bifidobacterium adolescentis	Bifidobacterium adolescentis PLC311.39
+PLC312.12	Anaerostipes hadrus	Anaerostipes hadrus PLC312.12
+PLC312.2	Coprobacillus cateniformis	Coprobacillus cateniformis PLC312.2
+PLC312.27	Gemmiger qucibialis	Gemmiger qucibialis PLC312.27
+PLC312.32	Faecousia sp003525905	Faecousia sp003525905 PLC312.32
+PLC312.37	Bifidobacterium longum	Bifidobacterium longum PLC312.37
+PLC313.10	Acutalibacteraceae	Acutalibacteraceae PLC313.10
+PLC313.11	Collinsella sp003459245	Collinsella sp003459245 PLC313.11
+PLC313.17	Gemmiger qucibialis	Gemmiger qucibialis PLC313.17
+PLC313.19	Alistipes putredinis	Alistipes putredinis PLC313.19
+PLC313.23	Megamonas funiformis	Megamonas funiformis PLC313.23
+PLC313.4	Lachnospira sp000436475	Lachnospira sp000436475 PLC313.4
+PLC313.5	Ruminococcus_E bromii_B	Ruminococcus_E bromii_B PLC313.5
+PLC313.9	Faecalibacillus intestinalis	Faecalibacillus intestinalis PLC313.9
+PLC314.14	Ruminococcus_E sp003526955	Ruminococcus_E sp003526955 PLC314.14
+PLC314.18	Dialister succinatiphilus	Dialister succinatiphilus PLC314.18
+PLC314.21	Ligilactobacillus salivarius	Ligilactobacillus salivarius PLC314.21
+PLC314.24	Prevotella copri_A	Prevotella copri_A PLC314.24
+PLC314.8	Lactococcus lactis	Lactococcus lactis PLC314.8
+PLC315.12	Fimenecus sp000432435	Fimenecus sp000432435 PLC315.12
+PLC315.29	Prevotella sp015074785	Prevotella sp015074785 PLC315.29
+PLC315.6	Gemmiger qucibialis	Gemmiger qucibialis PLC315.6
+PLC315.8	Coprococcus eutactus_A	Coprococcus eutactus_A PLC315.8
+PLC316.10	Lachnospira eligens_A	Lachnospira eligens_A PLC316.10
+PLC316.17	Agathobacter faecis	Agathobacter faecis PLC316.17
+PLC316.2	Ruminococcus_E sp003526955	Ruminococcus_E sp003526955 PLC316.2
+PLC316.20	Anaerotignum faecicola	Anaerotignum faecicola PLC316.20
+PLC316.7	Ruminococcaceae	Ruminococcaceae PLC316.7
+PLC316.8	Roseburia inulinivorans	Roseburia inulinivorans PLC316.8
+PLC317.3	Veillonella parvula_A	Veillonella parvula_A PLC317.3
+PLC317.6	Enterocloster clostridioformis	Enterocloster clostridioformis PLC317.6
+PLC318.3	Megamonas funiformis	Megamonas funiformis PLC318.3
+PLC318.8	Bifidobacterium pseudocatenulatum	Bifidobacterium pseudocatenulatum PLC318.8
+PLC319.1	Ruminococcus_D bicirculans	Ruminococcus_D bicirculans PLC319.1
+PLC319.12	Gemmiger qucibialis	Gemmiger qucibialis PLC319.12
+PLC319.13	Eubacterium_G ventriosum	Eubacterium_G ventriosum PLC319.13
+PLC319.14	Agathobacter rectalis	Agathobacter rectalis PLC319.14
+PLC319.16	Faecalibacillus faecis	Faecalibacillus faecis PLC319.16
+PLC319.20	Oscillospiraceae	Oscillospiraceae PLC319.20
+PLC319.26	Anaerobutyricum soehngenii	Anaerobutyricum soehngenii PLC319.26
+PLC320.14	Escherichia coli	Escherichia coli PLC320.14
+PLC320.16	Agathobaculum butyriciproducens	Agathobaculum butyriciproducens PLC320.16
+PLC320.17	Bifidobacterium pseudocatenulatum	Bifidobacterium pseudocatenulatum PLC320.17
+PLC320.18	Bifidobacterium longum	Bifidobacterium longum PLC320.18
+PLC320.2	Anaerostipes hadrus	Anaerostipes hadrus PLC320.2
+PLC320.4	Intestinibacter bartlettii	Intestinibacter bartlettii PLC320.4
+PLC320.9	Fusicatenibacter saccharivorans	Fusicatenibacter saccharivorans PLC320.9
+PLC321.29	Prevotella copri_A	Prevotella copri_A PLC321.29
+PLC321.7	Alistipes_A indistinctus	Alistipes_A indistinctus PLC321.7
+PLC322.1	Acutalibacteraceae	Acutalibacteraceae PLC322.1
+PLC322.10	Oscillospiraceae	Oscillospiraceae PLC322.10
+PLC322.13	Dialister succinatiphilus	Dialister succinatiphilus PLC322.13
+PLC322.15	Clostridia	Clostridia PLC322.15
+PLC322.24	Eubacterium_R sp000436835	Eubacterium_R sp000436835 PLC322.24
+PLC322.25	UMGS1071 sp934476545	UMGS1071 sp934476545 PLC322.25
+PLC322.29	Faecalibacillus intestinalis	Faecalibacillus intestinalis PLC322.29
+PLC322.31	Roseburia hominis	Roseburia hominis PLC322.31
+PLC322.34	Collinsella sp003436275	Collinsella sp003436275 PLC322.34
+PLC323.1	Holdemanella sp900556915	Holdemanella sp900556915 PLC323.1
+PLC323.15	Agathobacter rectalis	Agathobacter rectalis PLC323.15
+PLC323.2	Faecousia sp900540635	Faecousia sp900540635 PLC323.2
+PLC323.4	TANB77	TANB77 PLC323.4
+PLC323.5	Eisenbergiella sp900066775	Eisenbergiella sp900066775 PLC323.5
+PLC324.16	Catenibacterium sp000437715	Catenibacterium sp000437715 PLC324.16
+PLC324.19	TANB77	TANB77 PLC324.19
+PLC324.25	Agathobacter rectalis	Agathobacter rectalis PLC324.25
+PLC324.27	Haemophilus_D parainfluenzae	Haemophilus_D parainfluenzae PLC324.27
+PLC324.29	Ruminococcus_D bicirculans	Ruminococcus_D bicirculans PLC324.29
+PLC324.33	Ruminococcus_E bromii_B	Ruminococcus_E bromii_B PLC324.33
+PLC324.36	Acutalibacteraceae	Acutalibacteraceae PLC324.36
+PLC324.7	Pseudoruminococcus massiliensis	Pseudoruminococcus massiliensis PLC324.7
+PLC326.14	Prevotella sp015074785	Prevotella sp015074785 PLC326.14
+PLC326.2	Ruminococcus_D bicirculans	Ruminococcus_D bicirculans PLC326.2
+PLC326.25	Bacteroides uniformis	Bacteroides uniformis PLC326.25
+PLC326.7	Wujia chipingensis	Wujia chipingensis PLC326.7
+PLC327.16	Escherichia coli	Escherichia coli PLC327.16
+PLC327.6	Fimivicinus sp900544375	Fimivicinus sp900544375 PLC327.6
+PLC327.7	Enterococcus faecalis	Enterococcus faecalis PLC327.7
+PLC328.1	Collinsella intestinalis	Collinsella intestinalis PLC328.1
+PLC328.3	Blautia_A wexlerae	Blautia_A wexlerae PLC328.3
+PLC328.5	Bifidobacterium longum	Bifidobacterium longum PLC328.5
+PLC328.8	Gemmiger qucibialis	Gemmiger qucibialis PLC328.8
+PLC329.1	Gemmiger sp900539695	Gemmiger sp900539695 PLC329.1
+PLC329.20	Ruminococcus_E bromii_B	Ruminococcus_E bromii_B PLC329.20
+PLC329.9	Faecalibacillus intestinalis	Faecalibacillus intestinalis PLC329.9
+PLC330.1	Eisenbergiella sp900066775	Eisenbergiella sp900066775 PLC330.1
+PLC330.17	Akkermansia sp001580195	Akkermansia sp001580195 PLC330.17
+PLC330.21	Acutalibacteraceae	Acutalibacteraceae PLC330.21
+PLC330.28	Escherichia coli	Escherichia coli PLC330.28
+PLC330.9	Barnesiella intestinihominis	Barnesiella intestinihominis PLC330.9
+PLC331.13	Ruminococcus_E bromii_B	Ruminococcus_E bromii_B PLC331.13
+PLC331.21	Fusicatenibacter saccharivorans	Fusicatenibacter saccharivorans PLC331.21
+PLC331.27	Bifidobacterium longum	Bifidobacterium longum PLC331.27
+PLC331.28	Faecalibacterium duncaniae	Faecalibacterium duncaniae PLC331.28
+PLC331.29	Enorma massiliensis	Enorma massiliensis PLC331.29
+PLC331.30	Agathobacter rectalis	Agathobacter rectalis PLC331.30
+PLC331.32	Megamonas funiformis	Megamonas funiformis PLC331.32
+PLC331.34	Ruminococcus_C sp000980705	Ruminococcus_C sp000980705 PLC331.34
+PLC332.10	Blautia sp000432195	Blautia sp000432195 PLC332.10
+PLC332.11	Bifidobacterium longum	Bifidobacterium longum PLC332.11
+PLC332.13	Bacteroides fragilis_A	Bacteroides fragilis_A PLC332.13
+PLC332.16	Dorea_A longicatena_B	Dorea_A longicatena_B PLC332.16
+PLC332.3	Parabacteroides distasonis	Parabacteroides distasonis PLC332.3
+PLC332.5	Schaedlerella glycyrrhizinilytica_A	Schaedlerella glycyrrhizinilytica_A PLC332.5
+PLC332.9	Rothia mucilaginosa_B	Rothia mucilaginosa_B PLC332.9
+PLC333.1	Catenibacterium sp000437715	Catenibacterium sp000437715 PLC333.1
+PLC333.11	Ruminiclostridium_E siraeum	Ruminiclostridium_E siraeum PLC333.11
+PLC333.12	Christensenellales	Christensenellales PLC333.12
+PLC333.13	Collinsella sp003459245	Collinsella sp003459245 PLC333.13
+PLC333.2	Acutalibacteraceae	Acutalibacteraceae PLC333.2
+PLC333.30	Acutalibacteraceae	Acutalibacteraceae PLC333.30
+PLC333.9	Negativibacillus massiliensis	Negativibacillus massiliensis PLC333.9
+PLC334.15	Klebsiella variicola	Klebsiella variicola PLC334.15
+PLC334.5	Roseburia hominis	Roseburia hominis PLC334.5
+PLC334.9	Ruminococcus_E sp003526955	Ruminococcus_E sp003526955 PLC334.9
+PLC335.1	Ruminococcus_B gnavus	Ruminococcus_B gnavus PLC335.1
+PLC335.13	Blautia_A wexlerae	Blautia_A wexlerae PLC335.13
+PLC335.2	Providencia rettgeri	Providencia rettgeri PLC335.2
+PLC335.4	Proteus mirabilis	Proteus mirabilis PLC335.4
+PLC335.8	Enterococcus_C canintestini	Enterococcus_C canintestini PLC335.8
+PLC335.9	Veillonella parvula_A	Veillonella parvula_A PLC335.9
+PLC337.11	Bilophila wadsworthia	Bilophila wadsworthia PLC337.11
+PLC337.13	Agathobacter rectalis	Agathobacter rectalis PLC337.13
+PLC337.20	Anaerobutyricum soehngenii	Anaerobutyricum soehngenii PLC337.20
+PLC337.22	Eubacterium_R sp000436835	Eubacterium_R sp000436835 PLC337.22
+PLC337.24	Gemmiger sp900540595	Gemmiger sp900540595 PLC337.24
+PLC337.26	Vescimonas coprocola	Vescimonas coprocola PLC337.26
+PLC337.28	Ruminococcus_E bromii_B	Ruminococcus_E bromii_B PLC337.28
+PLC337.3	Eubacterium_G ventriosum	Eubacterium_G ventriosum PLC337.3
+PLC337.4	Roseburia hominis	Roseburia hominis PLC337.4
+PLC339.17	TANB77	TANB77 PLC339.17
+PLC339.22	Agathobaculum butyriciproducens	Agathobaculum butyriciproducens PLC339.22
+PLC339.23	Christensenellales	Christensenellales PLC339.23
+PLC339.25	Oscillospiraceae	Oscillospiraceae PLC339.25
+PLC339.27	Collinsella intestinalis	Collinsella intestinalis PLC339.27
+PLC339.29	Barnesiella intestinihominis	Barnesiella intestinihominis PLC339.29
+PLC339.33	Ruminococcus_E sp003438075	Ruminococcus_E sp003438075 PLC339.33
+PLC339.34	Fimenecus sp000432435	Fimenecus sp000432435 PLC339.34
+PLC339.35	Anaerotardibacter sp000435475	Anaerotardibacter sp000435475 PLC339.35
+PLC340.10	Agathobacter rectalis	Agathobacter rectalis PLC340.10
+PLC340.11	Haemophilus_D sp900756875	Haemophilus_D sp900756875 PLC340.11
+PLC340.2	Comamonas aquatica	Comamonas aquatica PLC340.2
+PLC340.3	Anaerostipes hadrus	Anaerostipes hadrus PLC340.3
+PLC340.6	Mediterraneibacter faecis	Mediterraneibacter faecis PLC340.6
+PLC341.1	Haemophilus_D sp905205995	Haemophilus_D sp905205995 PLC341.1
+PLC341.2	Romboutsia timonensis	Romboutsia timonensis PLC341.2
+PLC341.6	Ruminococcus_B gnavus	Ruminococcus_B gnavus PLC341.6
+PLC342.15	Parabacteroides distasonis	Parabacteroides distasonis PLC342.15
+PLC342.18	Bifidobacterium longum	Bifidobacterium longum PLC342.18
+PLC342.9	Faecalibacillus intestinalis	Faecalibacillus intestinalis PLC342.9
+PLC343.12	Fimenecus sp000432435	Fimenecus sp000432435 PLC343.12
+PLC343.14	TANB77	TANB77 PLC343.14
+PLC343.15	Comamonas kerstersii	Comamonas kerstersii PLC343.15
+PLC343.16	Stenotrophomonas	Stenotrophomonas PLC343.16
+PLC343.20	Coprococcus sp000433075	Coprococcus sp000433075 PLC343.20
+PLC343.24	Escherichia coli	Escherichia coli PLC343.24
+PLC343.7	Agathobacter rectalis	Agathobacter rectalis PLC343.7
+PLC343.9	Comamonas thiooxydans	Comamonas thiooxydans PLC343.9
+PLC344.2	Fimenecus sp000432435	Fimenecus sp000432435 PLC344.2
+PLC344.20	Agathobacter faecis	Agathobacter faecis PLC344.20
+PLC344.24	TANB77	TANB77 PLC344.24
+PLC344.29	TANB77	TANB77 PLC344.29
+PLC344.3	Limosilactobacillus mucosae	Limosilactobacillus mucosae PLC344.3
+PLC344.40	Agathobacter rectalis	Agathobacter rectalis PLC344.40
+PLC345.1	Mediterraneibacter faecis	Mediterraneibacter faecis PLC345.1
+PLC346.10	Christensenellales	Christensenellales PLC346.10
+PLC346.13	Acutalibacteraceae	Acutalibacteraceae PLC346.13
+PLC346.14	Agathobacter rectalis	Agathobacter rectalis PLC346.14
+PLC346.17	Oscillospiraceae	Oscillospiraceae PLC346.17
+PLC346.26	Acutalibacter timonensis	Acutalibacter timonensis PLC346.26
+PLC346.27	Anaerobutyricum hallii	Anaerobutyricum hallii PLC346.27
+PLC346.29	Vescimonas sp000435555	Vescimonas sp000435555 PLC346.29
+PLC346.31	Gemmiger qucibialis	Gemmiger qucibialis PLC346.31
+PLC346.34	Ruminococcus_E bromii_B	Ruminococcus_E bromii_B PLC346.34
+PLC346.35	Anaerostipes hadrus	Anaerostipes hadrus PLC346.35
+PLC346.9	Oscillospiraceae	Oscillospiraceae PLC346.9
+PLC347.1	Mediterraneibacter faecis	Mediterraneibacter faecis PLC347.1
+PLC348.1	Veillonella parvula_A	Veillonella parvula_A PLC348.1
+PLC349.1	Holdemanella biformis	Holdemanella biformis PLC349.1
+PLC349.11	Collinsella intestinalis	Collinsella intestinalis PLC349.11
+PLC349.16	Enterocloster sp900541315	Enterocloster sp900541315 PLC349.16
+PLC349.20	Bifidobacterium pseudocatenulatum	Bifidobacterium pseudocatenulatum PLC349.20
+PLC349.4	Clostridium_Q fessum	Clostridium_Q fessum PLC349.4
+PLC349.6	Agathobaculum butyriciproducens	Agathobaculum butyriciproducens PLC349.6
+PLC350.1	Muribaculaceae	Muribaculaceae PLC350.1
+PLC350.22	Fusicatenibacter saccharivorans	Fusicatenibacter saccharivorans PLC350.22
+PLC350.23	Faecalibacterium prausnitzii_E	Faecalibacterium prausnitzii_E PLC350.23
+PLC350.4	Bacteroides uniformis	Bacteroides uniformis PLC350.4
+PLC350.8	Muribaculaceae	Muribaculaceae PLC350.8
+PLC351.14	Megamonas funiformis	Megamonas funiformis PLC351.14
+PLC351.2	Clostridium_Q sp000435655	Clostridium_Q sp000435655 PLC351.2
+PLC351.6	Dorea_A longicatena_B	Dorea_A longicatena_B PLC351.6
+PLC352.2	Streptococcus thermophilus	Streptococcus thermophilus PLC352.2
+PLC353.1	Alistipes onderdonkii	Alistipes onderdonkii PLC353.1
+PLC353.10	Faecalibacterium prausnitzii_D	Faecalibacterium prausnitzii_D PLC353.10
+PLC353.13	Phascolarctobacterium faecium	Phascolarctobacterium faecium PLC353.13
+PLC353.16	Collinsella sp003436275	Collinsella sp003436275 PLC353.16
+PLC353.7	Flavonifractor plautii	Flavonifractor plautii PLC353.7
+PLC353.8	Dorea formicigenerans	Dorea formicigenerans PLC353.8
+PLC354.24	Agathobacter rectalis	Agathobacter rectalis PLC354.24
+PLC354.4	Coprococcus eutactus_A	Coprococcus eutactus_A PLC354.4
+PLC354.8	Fimenecus sp000432435	Fimenecus sp000432435 PLC354.8
+PLC355.10	Dialister sp900765565	Dialister sp900765565 PLC355.10
+PLC355.12	Lachnospira eligens_A	Lachnospira eligens_A PLC355.12
+PLC355.16	Acutalibacteraceae	Acutalibacteraceae PLC355.16
+PLC355.18	Oscillospiraceae	Oscillospiraceae PLC355.18
+PLC355.2	Lachnospira sp000437735	Lachnospira sp000437735 PLC355.2
+PLC355.22	Agathobacter faecis	Agathobacter faecis PLC355.22
+PLC355.27	Parabacteroides merdae	Parabacteroides merdae PLC355.27
+PLC355.30	Bifidobacterium pseudocatenulatum	Bifidobacterium pseudocatenulatum PLC355.30
+PLC355.5	TANB77	TANB77 PLC355.5
+PLC355.8	Oscillospiraceae	Oscillospiraceae PLC355.8
+PLC356.2	Morganella morganii	Morganella morganii PLC356.2
+PLC356.3	Haemophilus_D parainfluenzae_J	Haemophilus_D parainfluenzae_J PLC356.3
+PLC356.5	Escherichia coli	Escherichia coli PLC356.5
+PLC357.12	Desulfovibrio sp900319575	Desulfovibrio sp900319575 PLC357.12
+PLC357.15	Eubacterium_G sp000434315	Eubacterium_G sp000434315 PLC357.15
+PLC357.18	Vescimonas sp000435555	Vescimonas sp000435555 PLC357.18
+PLC357.22	Acutalibacteraceae	Acutalibacteraceae PLC357.22
+PLC357.27	Bifidobacterium swidsinskii	Bifidobacterium swidsinskii PLC357.27
+PLC357.28	Ruminococcus_E sp905215855	Ruminococcus_E sp905215855 PLC357.28
+PLC357.29	Ruminococcus_E sp003438075	Ruminococcus_E sp003438075 PLC357.29
+PLC357.6	Eisenbergiella sp900066775	Eisenbergiella sp900066775 PLC357.6
+PLC357.8	Christensenellales	Christensenellales PLC357.8
+PLC66.1	Agathobacter rectalis	Agathobacter rectalis PLC66.1
+PLC66.24	Megamonas funiformis	Megamonas funiformis PLC66.24
+PLC81.1	Anaerostipes hadrus	Anaerostipes hadrus PLC81.1
+PLC81.17	Collinsella sp905215385	Collinsella sp905215385 PLC81.17
+PLC81.19	Fusicatenibacter saccharivorans	Fusicatenibacter saccharivorans PLC81.19
+PLC81.20	Faecalibacterium longum	Faecalibacterium longum PLC81.20
+PLC81.21	Bifidobacterium pseudocatenulatum	Bifidobacterium pseudocatenulatum PLC81.21
+S33.18	Akkermansia muciniphila	Akkermansia muciniphila S33.18
+S33.29	Oscillospiraceae	Oscillospiraceae S33.29
+S33.31	Lachnospira rogosae	Lachnospira rogosae S33.31
+S33.36	Gemmiger qucibialis	Gemmiger qucibialis S33.36
+S33.9	Agathobaculum butyriciproducens	Agathobaculum butyriciproducens S33.9
+S34.1	Coprococcus eutactus_A	Coprococcus eutactus_A S34.1
+S34.19	Acutalibacteraceae	Acutalibacteraceae S34.19
+S34.24	Roseburia hominis	Roseburia hominis S34.24
+S34.3	Ruminococcus_E sp003526955	Ruminococcus_E sp003526955 S34.3
+S34.30	Wujia chipingensis	Wujia chipingensis S34.30
+S34.31	Collinsella sp003469205	Collinsella sp003469205 S34.31
+S34.37	Agathobaculum sp003481705	Agathobaculum sp003481705 S34.37
+S34.40	Ruminococcus_C sp000433635	Ruminococcus_C sp000433635 S34.40
+S36.14	Vescimonas coprocola	Vescimonas coprocola S36.14
+S36.16	Coprococcus eutactus	Coprococcus eutactus S36.16
+S36.21	Lachnospira eligens_A	Lachnospira eligens_A S36.21
+S36.23	Adlercreutzia equolifaciens	Adlercreutzia equolifaciens S36.23
+S36.24	Agathobaculum butyriciproducens	Agathobaculum butyriciproducens S36.24
+S36.27	Eisenbergiella sp900066775	Eisenbergiella sp900066775 S36.27
+S36.31	Ruminococcus_D bicirculans	Ruminococcus_D bicirculans S36.31
+S36.33	Ruminococcus_E bromii_B	Ruminococcus_E bromii_B S36.33
+S36.6	Vescimonas sp000435555	Vescimonas sp000435555 S36.6
+S36.7	Acutalibacteraceae	Acutalibacteraceae S36.7
+S37.13	Flavonifractor plautii	Flavonifractor plautii S37.13
+S37.15	Amedibacillus dolichus	Amedibacillus dolichus S37.15
+S37.5	Anaerobutyricum hallii	Anaerobutyricum hallii S37.5
+S38.10	Acutalibacteraceae	Acutalibacteraceae S38.10
+S38.11	Paraprevotella clara	Paraprevotella clara S38.11
+S38.19	Anaerotardibacter sp900538545	Anaerotardibacter sp900538545 S38.19
+S38.25	Enterocloster sp000431375	Enterocloster sp000431375 S38.25
+S38.29	Roseburia inulinivorans	Roseburia inulinivorans S38.29
+S38.3	Parabacteroides distasonis	Parabacteroides distasonis S38.3
+S38.35	Collinsella	Collinsella S38.35
+S38.38	Adlercreutzia equolifaciens	Adlercreutzia equolifaciens S38.38
+S38.5	Clostridium_Q fessum	Clostridium_Q fessum S38.5
+S39.10	Bifidobacterium longum	Bifidobacterium longum S39.10
+S39.16	Bifidobacterium adolescentis	Bifidobacterium adolescentis S39.16
+S39.17	Sutterella wadsworthensis_A	Sutterella wadsworthensis_A S39.17
+S39.2	Bacteroides fragilis_A	Bacteroides fragilis_A S39.2
+S39.6	Megasphaera sp000417505	Megasphaera sp000417505 S39.6
+S40.10	Alistipes putredinis	Alistipes putredinis S40.10
+S40.18	Christensenellales	Christensenellales S40.18
+S40.19	Agathobaculum sp900544475	Agathobaculum sp900544475 S40.19
+S40.20	Bifidobacterium pseudocatenulatum	Bifidobacterium pseudocatenulatum S40.20
+S40.23	Agathobacter faecis	Agathobacter faecis S40.23
+S40.25	Megamonas funiformis	Megamonas funiformis S40.25
+S41.13	Parasutterella excrementihominis	Parasutterella excrementihominis S41.13
+S41.5	Collinsella sp902364975	Collinsella sp902364975 S41.5
+S42.11	Gemmiger formicilis	Gemmiger formicilis S42.11
+S42.12	Dorea_A longicatena	Dorea_A longicatena S42.12
+S42.14	Weissella halotolerans	Weissella halotolerans S42.14
+S42.15	Faecalibacterium duncaniae	Faecalibacterium duncaniae S42.15
+S42.17	Schaedlerella glycyrrhizinilytica_A	Schaedlerella glycyrrhizinilytica_A S42.17
+S42.22	Ruminococcus_E sp003438075	Ruminococcus_E sp003438075 S42.22
+S42.23	Ruminococcus_E bromii_B	Ruminococcus_E bromii_B S42.23
+S42.25	Rothia mucilaginosa_B	Rothia mucilaginosa_B S42.25
+S42.3	Fusobacterium_A sp900543175	Fusobacterium_A sp900543175 S42.3
+S42.4	Escherichia coli	Escherichia coli S42.4
+S42.5	Ruthenibacterium lactatiformans	Ruthenibacterium lactatiformans S42.5
+S43.19	Roseburia intestinalis	Roseburia intestinalis S43.19
+S43.2	Anaerobutyricum soehngenii	Anaerobutyricum soehngenii S43.2
+S43.7	Lachnospira rogosae	Lachnospira rogosae S43.7
+S43.9	Choladocola sp003480725	Choladocola sp003480725 S43.9
+S44.13	Paraprevotella clara	Paraprevotella clara S44.13
+S44.16	Ruminococcus_B gnavus	Ruminococcus_B gnavus S44.16
+S44.23	Paratractidigestivibacter faecalis	Paratractidigestivibacter faecalis S44.23
+S44.25	Eubacterium_R sp000436835	Eubacterium_R sp000436835 S44.25
+S44.7	Ruminococcus_C callidus	Ruminococcus_C callidus S44.7
+S45.1	Christensenellales	Christensenellales S45.1
+S45.18	Collinsella sp003439125	Collinsella sp003439125 S45.18
+S45.20	Acutalibacteraceae	Acutalibacteraceae S45.20
+S45.28	Gastranaerophilaceae	Gastranaerophilaceae S45.28
+S45.5	Vescimonas coprocola	Vescimonas coprocola S45.5
+S45.7	Oscillospiraceae	Oscillospiraceae S45.7
+S45.9	Akkermansia muciniphila	Akkermansia muciniphila S45.9
+S46.14	Alistipes onderdonkii	Alistipes onderdonkii S46.14
+S46.19	Faecalibacterium prausnitzii_D	Faecalibacterium prausnitzii_D S46.19
+S46.21	Agathobaculum butyriciproducens	Agathobaculum butyriciproducens S46.21
+S46.4	Acutalibacteraceae	Acutalibacteraceae S46.4
+S46.5	Fusicatenibacter saccharivorans	Fusicatenibacter saccharivorans S46.5
+S46.7	Agathobacter rectalis	Agathobacter rectalis S46.7
+S47.11	Clostridia	Clostridia S47.11
+S47.18	Lactobacillus delbrueckii_B	Lactobacillus delbrueckii_B S47.18
+S47.19	Sodaliphilus sp004557565	Sodaliphilus sp004557565 S47.19
+S47.29	Alistipes_A sp900539755	Alistipes_A sp900539755 S47.29
+S47.31	Eubacterium_R sp000436835	Eubacterium_R sp000436835 S47.31
+S47.6	Limosilactobacillus mucosae	Limosilactobacillus mucosae S47.6
+S47.7	RUG12999	RUG12999 S47.7
+S48.15	Acutalibacteraceae	Acutalibacteraceae S48.15
+S48.18	Desulfovibrio sp900556755	Desulfovibrio sp900556755 S48.18
+S48.20	Acutalibacteraceae	Acutalibacteraceae S48.20
+S48.22	Anaerotignum faecicola	Anaerotignum faecicola S48.22
+S48.23	Acetatifactor sp900066565	Acetatifactor sp900066565 S48.23
+S48.26	Fimenecus sp000432435	Fimenecus sp000432435 S48.26
+S48.3	Collinsella sp003466125	Collinsella sp003466125 S48.3
+S48.9	Oscillospiraceae	Oscillospiraceae S48.9
+S49.12	Bifidobacterium longum	Bifidobacterium longum S49.12
+S49.14	Flavonifractor plautii	Flavonifractor plautii S49.14
+S49.16	Agathobaculum butyriciproducens	Agathobaculum butyriciproducens S49.16
+S49.19	Acutalibacteraceae	Acutalibacteraceae S49.19
+S49.22	Escherichia coli	Escherichia coli S49.22
+S49.5	Clostridia	Clostridia S49.5
+S49.8	Eisenbergiella sp900066775	Eisenbergiella sp900066775 S49.8
+S50.1	Akkermansia muciniphila	Akkermansia muciniphila S50.1
+S50.10	Acutalibacteraceae	Acutalibacteraceae S50.10
+S50.11	Escherichia coli	Escherichia coli S50.11
+S50.12	Bacteroides uniformis	Bacteroides uniformis S50.12
+S50.13	Faecousia	Faecousia S50.13
+S50.15	Agathobacter rectalis	Agathobacter rectalis S50.15
+S50.16	Senegalimassilia anaerobia	Senegalimassilia anaerobia S50.16
+S50.17	Vescimonas sp000435555	Vescimonas sp000435555 S50.17
+S50.19	Christensenellales	Christensenellales S50.19
+S50.20	Coprococcus eutactus_A	Coprococcus eutactus_A S50.20
+S50.27	Ruminococcus_E sp003526955	Ruminococcus_E sp003526955 S50.27
+S50.39	Roseburia hominis	Roseburia hominis S50.39
+S50.41	Streptococcus	Streptococcus S50.41
+S50.43	Gemmiger formicilis	Gemmiger formicilis S50.43
+S51.18	Adlercreutzia equolifaciens	Adlercreutzia equolifaciens S51.18
+S51.20	Agathobacter rectalis	Agathobacter rectalis S51.20
+S51.21	Agathobaculum butyriciproducens	Agathobaculum butyriciproducens S51.21
+S51.3	Gemmiger sp900540595	Gemmiger sp900540595 S51.3
+S52.16	Eisenbergiella sp900066775	Eisenbergiella sp900066775 S52.16
+S52.17	Collinsella intestinalis	Collinsella intestinalis S52.17
+S52.18	Evtepia excrementipullorum	Evtepia excrementipullorum S52.18
+S52.22	Ruminococcus_E bromii_B	Ruminococcus_E bromii_B S52.22
+S52.4	Gemmiger qucibialis	Gemmiger qucibialis S52.4
+S52.9	Acutalibacteraceae	Acutalibacteraceae S52.9
+S53.14	Mediterraneibacter faecis	Mediterraneibacter faecis S53.14
+S53.2	Roseburia sp003470905	Roseburia sp003470905 S53.2
+S53.23	Ruminiclostridium_E siraeum	Ruminiclostridium_E siraeum S53.23
+S53.3	Lachnospira rogosae	Lachnospira rogosae S53.3
+S53.30	Haemophilus_D parainfluenzae	Haemophilus_D parainfluenzae S53.30
+S53.4	Acutalibacteraceae	Acutalibacteraceae S53.4
+S53.6	Christensenellales	Christensenellales S53.6
+S53.7	Eubacterium_R sp000434995	Eubacterium_R sp000434995 S53.7
+S53.8	Ruminococcus_E sp003526955	Ruminococcus_E sp003526955 S53.8
+S54.10	Acutalibacteraceae	Acutalibacteraceae S54.10
+S54.4	Slackia_A isoflavoniconvertens	Slackia_A isoflavoniconvertens S54.4
+S54.6	Parasutterella excrementihominis	Parasutterella excrementihominis S54.6
+S55.17	Parasutterella excrementihominis	Parasutterella excrementihominis S55.17
+S55.20	Bacteroides uniformis	Bacteroides uniformis S55.20
+S56.12	Klebsiella pneumoniae	Klebsiella pneumoniae S56.12
+S56.8	Faecalibacterium longum	Faecalibacterium longum S56.8
+S57.2	Acutalibacteraceae	Acutalibacteraceae S57.2
+S57.27	Collinsella	Collinsella S57.27
+S57.28	Anaerostipes hadrus	Anaerostipes hadrus S57.28
+S58.1	Fusicatenibacter saccharivorans	Fusicatenibacter saccharivorans S58.1
+S58.11	Klebsiella quasipneumoniae	Klebsiella quasipneumoniae S58.11
+S58.12	Gemmiger qucibialis	Gemmiger qucibialis S58.12
+S58.3	Faecalibacterium longum	Faecalibacterium longum S58.3
+S58.6	Agathobaculum butyriciproducens	Agathobaculum butyriciproducens S58.6
+S59.19	Agathobacter rectalis	Agathobacter rectalis S59.19
+S59.2	Acutalibacteraceae	Acutalibacteraceae S59.2
+S59.23	Oscillospiraceae	Oscillospiraceae S59.23
+S59.4	Agathobaculum butyriciproducens	Agathobaculum butyriciproducens S59.4
+S59.7	Senegalimassilia anaerobia	Senegalimassilia anaerobia S59.7
+S60.10	Faecousia sp900540635	Faecousia sp900540635 S60.10
+S60.17	Alistipes_A pullistercoris	Alistipes_A pullistercoris S60.17
+S60.28	Faecousia sp900544975	Faecousia sp900544975 S60.28
+S60.37	Acutalibacteraceae	Acutalibacteraceae S60.37
+S60.42	Wujia chipingensis	Wujia chipingensis S60.42
+S60.43	Collinsella sp900540855	Collinsella sp900540855 S60.43
+S60.45	Agathobaculum butyriciproducens	Agathobaculum butyriciproducens S60.45
+S60.49	Fimenecus sp000432435	Fimenecus sp000432435 S60.49
+S60.6	Phascolarctobacterium_A succinatutens	Phascolarctobacterium_A succinatutens S60.6
+S61.18	Akkermansia muciniphila	Akkermansia muciniphila S61.18
+S61.2	Alistipes communis	Alistipes communis S61.2
+S61.20	Roseburia hominis	Roseburia hominis S61.20
+S61.22	Anaerobutyricum hallii	Anaerobutyricum hallii S61.22
+S61.27	Collinsella intestinalis	Collinsella intestinalis S61.27
+S61.28	Gemmiger sp900539695	Gemmiger sp900539695 S61.28
+S61.31	Escherichia coli	Escherichia coli S61.31
+S61.33	Agathobacter rectalis	Agathobacter rectalis S61.33
+S61.34	Ruminococcus_C sp000433635	Ruminococcus_C sp000433635 S61.34
+S61.36	Bifidobacterium bifidum	Bifidobacterium bifidum S61.36
+S61.39	Bifidobacterium pseudocatenulatum	Bifidobacterium pseudocatenulatum S61.39
+S61.4	Lawsonibacter sp900066825	Lawsonibacter sp900066825 S61.4
+S61.41	Adlercreutzia equolifaciens	Adlercreutzia equolifaciens S61.41
+S61.42	Ruminococcus_E bromii_B	Ruminococcus_E bromii_B S61.42
+S62.11	Roseburia hominis	Roseburia hominis S62.11
+S62.19	Alistipes communis	Alistipes communis S62.19
+S62.2	Eubacterium_R sp000434995	Eubacterium_R sp000434995 S62.2
+S62.23	Evtepia sp004554585	Evtepia sp004554585 S62.23
+S62.26	Escherichia coli	Escherichia coli S62.26
+S62.28	Collinsella sp003459245	Collinsella sp003459245 S62.28
+S62.34	Ruminococcus_E sp003526955	Ruminococcus_E sp003526955 S62.34
+S62.7	Alistipes_A ihumii	Alistipes_A ihumii S62.7
+S63.14	Eubacterium_R sp000433975	Eubacterium_R sp000433975 S63.14
+S63.17	Collinsella intestinalis	Collinsella intestinalis S63.17
+S63.25	Ligilactobacillus ruminis	Ligilactobacillus ruminis S63.25
+S63.26	Fusicatenibacter saccharivorans	Fusicatenibacter saccharivorans S63.26
+S63.28	Bifidobacterium adolescentis	Bifidobacterium adolescentis S63.28
+S64.14	Ruminococcus_E bromii_B	Ruminococcus_E bromii_B S64.14
+S64.17	Escherichia coli	Escherichia coli S64.17
+S64.24	Fusicatenibacter saccharivorans	Fusicatenibacter saccharivorans S64.24
+S64.25	Paraprevotella xylaniphila	Paraprevotella xylaniphila S64.25
+S64.31	Bifidobacterium pseudocatenulatum	Bifidobacterium pseudocatenulatum S64.31
+S64.33	Eubacterium_R sp000436835	Eubacterium_R sp000436835 S64.33
+S65.10	Bifidobacterium bifidum	Bifidobacterium bifidum S65.10
+S65.2	Anaerostipes hadrus	Anaerostipes hadrus S65.2
+S65.3	Collinsella sp900551195	Collinsella sp900551195 S65.3
+S65.7	Roseburia inulinivorans	Roseburia inulinivorans S65.7
+S65.8	Faecalibacterium longum	Faecalibacterium longum S65.8
+S66.10	Agathobacter rectalis	Agathobacter rectalis S66.10
+S66.11	Acutalibacteraceae	Acutalibacteraceae S66.11
+S66.12	Oscillospiraceae	Oscillospiraceae S66.12
+S66.16	Parabacteroides distasonis	Parabacteroides distasonis S66.16
+S66.19	Wujia chipingensis	Wujia chipingensis S66.19
+S66.20	UMGS1820 sp900555375	UMGS1820 sp900555375 S66.20
+S66.22	Prevotella stercorea	Prevotella stercorea S66.22
+S66.28	Acutalibacteraceae	Acutalibacteraceae S66.28
+S66.30	Ruminococcus_E sp003526955	Ruminococcus_E sp003526955 S66.30
+S67.1	Clostridia	Clostridia S67.1
+S67.11	Roseburia inulinivorans	Roseburia inulinivorans S67.11
+S67.12	Catenibacterium mitsuokai	Catenibacterium mitsuokai S67.12
+S67.19	Bacteroides caccae	Bacteroides caccae S67.19
+S67.21	Senegalimassilia anaerobia	Senegalimassilia anaerobia S67.21
+S67.22	Collinsella sp003439125	Collinsella sp003439125 S67.22
+S68.10	Agathobaculum sp900291975	Agathobaculum sp900291975 S68.10
+S68.14	Anaerotignum faecicola	Anaerotignum faecicola S68.14
+S68.17	Gordonibacter pamelaeae	Gordonibacter pamelaeae S68.17
+S68.22	Clostridium_AP sp000509125	Clostridium_AP sp000509125 S68.22
+S68.23	Paraeggerthella hongkongensis_A	Paraeggerthella hongkongensis_A S68.23
+S68.24	Blautia_A massiliensis	Blautia_A massiliensis S68.24
+S68.37	Mediterraneibacter faecis	Mediterraneibacter faecis S68.37
+S68.8	Lentihominibacter excrementigallinarum	Lentihominibacter excrementigallinarum S68.8
+S69.25	Agathobacter rectalis	Agathobacter rectalis S69.25
+S69.28	Holdemanella sp900556915	Holdemanella sp900556915 S69.28
+S69.29	Lachnospirales	Lachnospirales S69.29
+S69.3	Eggerthella lenta	Eggerthella lenta S69.3
+S69.33	Acutalibacteraceae	Acutalibacteraceae S69.33
+S69.34	Fusicatenibacter saccharivorans	Fusicatenibacter saccharivorans S69.34
+S69.35	Acutalibacteraceae	Acutalibacteraceae S69.35
+S69.36	Bifidobacterium longum	Bifidobacterium longum S69.36
+S69.4	Adlercreutzia equolifaciens	Adlercreutzia equolifaciens S69.4
+S69.9	Clostridia	Clostridia S69.9
+S70.1	Plesiomonas shigelloides	Plesiomonas shigelloides S70.1
+S70.12	Acetatifactor sp900066565	Acetatifactor sp900066565 S70.12
+S70.19	Faecalibacterium longum	Faecalibacterium longum S70.19
+S70.20	Flavonifractor plautii	Flavonifractor plautii S70.20
+S70.22	Eubacterium_R sp000436835	Eubacterium_R sp000436835 S70.22
+S70.25	Faecalimonas phoceensis	Faecalimonas phoceensis S70.25
+S70.27	Escherichia coli	Escherichia coli S70.27
+S70.31	Ruminococcus_E bromii_B	Ruminococcus_E bromii_B S70.31
+S70.8	Bacteroides uniformis	Bacteroides uniformis S70.8
+S70.9	TANB77	TANB77 S70.9
+S71.1	Megasphaera sp000417505	Megasphaera sp000417505 S71.1
+S71.14	Fusicatenibacter saccharivorans	Fusicatenibacter saccharivorans S71.14
+S71.21	Prevotella hominis	Prevotella hominis S71.21
+S71.29	Collinsella sp900540875	Collinsella sp900540875 S71.29
+S71.35	Anaerobutyricum soehngenii	Anaerobutyricum soehngenii S71.35
+S71.37	Fimenecus sp000432435	Fimenecus sp000432435 S71.37
+S71.42	Bifidobacterium pseudocatenulatum	Bifidobacterium pseudocatenulatum S71.42
+S72.10	Bilophila wadsworthia	Bilophila wadsworthia S72.10
+S72.13	Akkermansia muciniphila	Akkermansia muciniphila S72.13
+S72.2	Agathobaculum butyriciproducens	Agathobaculum butyriciproducens S72.2
+S72.21	Coprococcus sp900066115	Coprococcus sp900066115 S72.21
+S72.23	Vescimonas coprocola	Vescimonas coprocola S72.23
+S72.25	Collinsella sp900552425	Collinsella sp900552425 S72.25
+S72.28	Prevotella sp003447235	Prevotella sp003447235 S72.28
+S72.3	Faecalibacillus faecis	Faecalibacillus faecis S72.3
+S72.33	Fimenecus sp000432435	Fimenecus sp000432435 S72.33
+S73.13	Agathobacter rectalis	Agathobacter rectalis S73.13
+S73.16	Adlercreutzia equolifaciens	Adlercreutzia equolifaciens S73.16
+S73.18	Faecalibacillus intestinalis	Faecalibacillus intestinalis S73.18
+S73.2	Anaerobutyricum hallii	Anaerobutyricum hallii S73.2
+S73.24	Bifidobacterium pseudocatenulatum	Bifidobacterium pseudocatenulatum S73.24
+S73.25	Bifidobacterium longum	Bifidobacterium longum S73.25
+S73.29	Ruminococcus_E sp934476515	Ruminococcus_E sp934476515 S73.29
+S73.4	Roseburia hominis	Roseburia hominis S73.4
+S74.1	Senegalimassilia anaerobia	Senegalimassilia anaerobia S74.1
+S74.19	Oscillospiraceae	Oscillospiraceae S74.19
+S74.31	Fimenecus sp000432435	Fimenecus sp000432435 S74.31
+S74.32	Vescimonas coprocola	Vescimonas coprocola S74.32
+S74.7	Copromonas sp000435795	Copromonas sp000435795 S74.7
+S75.14	Clostridium_AQ sp003481775	Clostridium_AQ sp003481775 S75.14
+S75.18	Ruminococcus_E sp003526955	Ruminococcus_E sp003526955 S75.18
+S75.20	Vescimonas sp000435555	Vescimonas sp000435555 S75.20
+S75.21	Acutalibacteraceae	Acutalibacteraceae S75.21
+S75.23	Christensenellales	Christensenellales S75.23
+S75.25	Roseburia inulinivorans	Roseburia inulinivorans S75.25
+S75.27	Christensenellales	Christensenellales S75.27
+S75.28	Dielma fastidiosa	Dielma fastidiosa S75.28
+S75.32	Faecalimonas	Faecalimonas S75.32
+S75.35	Barnesiella intestinihominis	Barnesiella intestinihominis S75.35
+S75.45	Bacteroides uniformis	Bacteroides uniformis S75.45
+S75.53	Dialister invisus	Dialister invisus S75.53
+S75.6	Akkermansia muciniphila	Akkermansia muciniphila S75.6
+S75.8	TANB77	TANB77 S75.8
+S76.13	Phocaeicola dorei	Phocaeicola dorei S76.13
+S76.14	Alistipes finegoldii	Alistipes finegoldii S76.14
+S76.16	Anaerotignum faecicola	Anaerotignum faecicola S76.16
+S76.38	Adlercreutzia equolifaciens	Adlercreutzia equolifaciens S76.38
+S76.41	Ruminiclostridium_E siraeum	Ruminiclostridium_E siraeum S76.41
+S76.58	Ruminococcus_E sp003526955	Ruminococcus_E sp003526955 S76.58
+S77.2	Senegalimassilia anaerobia	Senegalimassilia anaerobia S77.2
+S77.4	Enterocloster sp900541315	Enterocloster sp900541315 S77.4
+S77.6	Anaerostipes hadrus	Anaerostipes hadrus S77.6
+S78.10	Collinsella sp003469205	Collinsella sp003469205 S78.10
+S78.12	Acidaminococcus massiliensis	Acidaminococcus massiliensis S78.12
+S78.7	Parabacteroides distasonis	Parabacteroides distasonis S78.7
+S79.1	Christensenellales	Christensenellales S79.1
+S79.13	Oscillospiraceae	Oscillospiraceae S79.13
+S79.17	Desulfovibrio sp900319575	Desulfovibrio sp900319575 S79.17
+S79.22	Gemmiger qucibialis	Gemmiger qucibialis S79.22
+S79.27	Acutalibacteraceae	Acutalibacteraceae S79.27
+S79.34	Negativibacillus sp000435195	Negativibacillus sp000435195 S79.34
+S79.35	Acutalibacteraceae	Acutalibacteraceae S79.35
+S79.5	Faecousia sp003525905	Faecousia sp003525905 S79.5
+S79.7	Adlercreutzia equolifaciens	Adlercreutzia equolifaciens S79.7
+S80.15	Gemmiger sp900539695	Gemmiger sp900539695 S80.15
+S80.21	Vescimonas sp003539495	Vescimonas sp003539495 S80.21
+S80.28	Christensenellales	Christensenellales S80.28
+S80.34	Oscillospiraceae	Oscillospiraceae S80.34
+S80.35	Faecousia sp000435995	Faecousia sp000435995 S80.35
+S80.36	Acutalibacteraceae	Acutalibacteraceae S80.36
+S80.4	Alistipes putredinis	Alistipes putredinis S80.4
+S80.6	Ruminococcus_E bromii_B	Ruminococcus_E bromii_B S80.6
+S80.8	Gemmiger qucibialis	Gemmiger qucibialis S80.8
+S81.10	Copromonas sp000435795	Copromonas sp000435795 S81.10
+S81.12	Clostridium_Q fessum	Clostridium_Q fessum S81.12
+S81.2	Phascolarctobacterium_A succinatutens	Phascolarctobacterium_A succinatutens S81.2
+S81.3	Ruminococcus_B gnavus	Ruminococcus_B gnavus S81.3
+S82.2	Morganella morganii_B	Morganella morganii_B S82.2
+S82.5	Bifidobacterium longum	Bifidobacterium longum S82.5
+S83.11	Christensenellales	Christensenellales S83.11
+S83.16	Phascolarctobacterium_A succinatutens_A	Phascolarctobacterium_A succinatutens_A S83.16
+S83.17	Alistipes onderdonkii	Alistipes onderdonkii S83.17
+S83.18	Acutalibacteraceae	Acutalibacteraceae S83.18
+S83.21	Parabacteroides distasonis	Parabacteroides distasonis S83.21
+S83.24	Oscillospiraceae	Oscillospiraceae S83.24
+S83.25	Ruminococcus_D bicirculans	Ruminococcus_D bicirculans S83.25
+S83.32	Oscillospiraceae	Oscillospiraceae S83.32
+S83.4	Acutalibacteraceae	Acutalibacteraceae S83.4
+S83.7	Ruminococcus_E bromii_B	Ruminococcus_E bromii_B S83.7
+S84.10	Mediterraneibacter lactaris	Mediterraneibacter lactaris S84.10
+S84.12	Vescimonas sp900552475	Vescimonas sp900552475 S84.12
+S84.16	Prevotella stercorea	Prevotella stercorea S84.16
+S84.18	Fusicatenibacter saccharivorans	Fusicatenibacter saccharivorans S84.18
+S84.19	Oscillospiraceae	Oscillospiraceae S84.19
+S84.2	Roseburia inulinivorans	Roseburia inulinivorans S84.2
+S84.20	Acutalibacteraceae	Acutalibacteraceae S84.20
+S84.22	Acutalibacteraceae	Acutalibacteraceae S84.22
+S84.30	Phascolarctobacterium_A succinatutens	Phascolarctobacterium_A succinatutens S84.30
+S84.34	Agathobacter rectalis	Agathobacter rectalis S84.34
+S84.6	Vescimonas coprocola	Vescimonas coprocola S84.6
+S85.1	Alistipes putredinis	Alistipes putredinis S85.1
+S85.10	Akkermansia muciniphila_B	Akkermansia muciniphila_B S85.10
+S85.12	Agathobaculum butyriciproducens	Agathobaculum butyriciproducens S85.12
+S86.1	Vescimonas coprocola	Vescimonas coprocola S86.1
+S86.10	Phocaeicola massiliensis	Phocaeicola massiliensis S86.10
+S86.11	Ruminococcus_E bromii_B	Ruminococcus_E bromii_B S86.11
+S86.18	Anaerotignum lactatifermentans	Anaerotignum lactatifermentans S86.18
+S86.19	Fusicatenibacter saccharivorans	Fusicatenibacter saccharivorans S86.19
+S86.26	Clostridium_AQ innocuum	Clostridium_AQ innocuum S86.26
+S86.28	Prevotella stercorea	Prevotella stercorea S86.28
+S86.29	Negativibacillus sp000435195	Negativibacillus sp000435195 S86.29
+S86.5	Desulfovibrio sp900556755	Desulfovibrio sp900556755 S86.5
+S86.7	Eubacterium_R sp000436835	Eubacterium_R sp000436835 S86.7
+S87.1	Phascolarctobacterium_A succinatutens	Phascolarctobacterium_A succinatutens S87.1
+S87.13	Collinsella	Collinsella S87.13
+S87.15	Roseburia inulinivorans	Roseburia inulinivorans S87.15
+S87.18	Megasphaera sp000417505	Megasphaera sp000417505 S87.18
+S87.28	Bifidobacterium pseudocatenulatum	Bifidobacterium pseudocatenulatum S87.28
+S87.8	Vescimonas coprocola	Vescimonas coprocola S87.8
