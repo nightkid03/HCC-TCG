@@ -1,3 +1,6 @@
+library(ggplot2)
+library(patchwork)
+
 #Figure3B
 data=readRDS("Fig3B.rds")
 ggplot(data,aes(x=specificity,y=sensitivity))+
@@ -6,16 +9,15 @@ ggplot(data,aes(x=specificity,y=sensitivity))+
   labs(x="1-Specificity",y="Sensitivity")+
   theme_bw()+
   theme(text=element_text(size = 40))+
-  annotate("text",size=10,x=0.8,y=0.25,label=paste("AUC = ",round(g$auc,2),
-                                                   "\n95% CI: (",round(ci95$ci[1],2),"-",round(ci95$ci[3],2),")",
-                                                   sep = ""))
+  annotate("text",size=10,x=0.8,y=0.25,label="AUC = 0.7\n95% CI: (0.63-0.78)")
+                                                   
 #Figure3C
 myalgroup_color=c("CRLM"="#d62728","HCC"="#034f84")
 drawdata=readRDS("Fig3C.rds")
 ggplot(drawdata,aes(x=Axis.1,y=Axis.2))+
   geom_point(aes(color=Group),size=5)+
   stat_ellipse(aes(color=Group))+
-  labs(x=paste("PC1 (",explain[1],"%)"),y=paste("PC2 (",explain[2],"%)"),)+
+  labs(x="23.85%",y="10.99%")+
   theme_bw()+
   theme(text=element_text(size=40),legend.title=element_blank())+
   scale_color_manual(values = myalgroup_color)+
@@ -28,12 +30,11 @@ ggplot(data,aes(x=specificity,y=sensitivity))+
   labs(x="1-Specificity",y="Sensitivity")+
   theme_bw()+
   theme(text=element_text(size = 40))+
-  annotate("text",size=10,x=0.8,y=0.25,label=paste("AUC = ",round(g$auc,2),
-                                                   "\n95% CI: (",round(ci95$ci[1],2),"-",round(ci95$ci[3],2),")",
-                                                   sep = ""))
+  annotate("text",size=10,x=0.8,y=0.25,label="AUC = 0.78\n95% CI: (0.59-0.97)")
+
 #Figure3E
 yintercept=0.82
-sscurves$auc.integral=0.94
+myauc=0.94
 data=readRDS("Fig3E.rds")
 ggplot(data,aes(x=rev(Recall),y=rev(Precision)))+
   geom_line(size=3)+
@@ -42,20 +43,20 @@ ggplot(data,aes(x=rev(Recall),y=rev(Precision)))+
   labs(x="Recall",y="Precision")+
   theme_bw()+
   theme(text=element_text(size = 40))+
-  annotate("text",size=10,x=0.8,y=0.3,label=paste("AUC = ",round(sscurves$auc.integral,2)))
+  annotate("text",size=10,x=0.8,y=0.3,label=paste("AUC = ",myauc))
 #Figure3F
 myall3group_color=c("CTR"="#2ca02c","HCC"="#034f84","iCCA"="#d62728")
 data=readRDS("Fig3F.rds")
-ggplot(drawdata,aes(x=Axis.1,y=Axis.2))+
+ggplot(data,aes(x=Axis.1,y=Axis.2))+
   geom_point(aes(color=Group),size=5)+
   stat_ellipse(aes(color=Group))+
-  labs(x=paste("PC1 (",explain[1],"%)"),y=paste("PC2 (",explain[2],"%)"),)+
+  labs(x="17.5%",y="10.51%")+
   theme_bw()+
   theme(text=element_text(size=40),legend.title=element_blank())+
   scale_color_manual(values =myall3group_color )
 #Figure3G
 data=readRDS("Fig3G.rds")
-ggplot(data=b,aes(P1,P2,fill=R2))+
+ggplot(data=data,aes(P1,P2,fill=R2))+
   geom_tile()+geom_text(aes(P1,P2,label=symbol),size=10)+
   theme_classic()+
   scale_fill_gradient(low="#EDE387",high="#868b9f")+
@@ -89,34 +90,31 @@ mypic[[2]]=ggplot(data,aes(x=group,y=C1B))+
 wrap_plots(mypic)+plot_layout(guides = "collect")
 #Figure3I
 data=readRDS("Fig3I.rds")
-ggplot(tmpdrawdata_train,aes(x=specificity,y=sensitivity))+
+ggplot(data,aes(x=specificity,y=sensitivity))+
   geom_line(size=3)+
   geom_segment(x=0,y=0,xend=1,yend=1,size=2,color="grey",linetype=2)+
   labs(x="1-Specificity",y="Sensitivity")+
   theme_bw()+
   theme(text=element_text(size = 40))+
-  annotate("text",size=10,x=0.8,y=0.25,label=paste("AUC = ",round(g$auc,2),
-                                                   "\n95% CI: (",round(ci95$ci[1],2),"-",round(ci95$ci[3],2),")",
-                                                   sep = ""))
+  annotate("text",size=10,x=0.8,y=0.25,label="AUC = 0.79\n95% CI: (0.67-0.91)")
+
 #Figure3J
 data=readRDS("Fig3J.rds")
-ggplot(tmpdrawdata_train,aes(x=specificity,y=sensitivity))+
+ggplot(data,aes(x=specificity,y=sensitivity))+
   geom_line(size=3)+
   geom_segment(x=0,y=0,xend=1,yend=1,size=2,color="grey",linetype=2)+
   labs(x="1-Specificity",y="Sensitivity")+
   theme_bw()+
   theme(text=element_text(size = 40))+
-  annotate("text",size=10,x=0.8,y=0.25,label=paste("AUC = ",round(g$auc,2),
-                                                   "\n95% CI: (",round(ci95$ci[1],2),"-",round(ci95$ci[3],2),")",
-                                                   sep = ""))
+  annotate("text",size=10,x=0.8,y=0.25,label="AUC = 0.85\n95% CI: (0.75-0.96)")
+
 #Figure3J
 data=readRDS("Fig3K.rds")
-ggplot(tmpdrawdata_train,aes(x=specificity,y=sensitivity))+
+ggplot(data,aes(x=specificity,y=sensitivity))+
   geom_line(size=3)+
   geom_segment(x=0,y=0,xend=1,yend=1,size=2,color="grey",linetype=2)+
   labs(x="1-Specificity",y="Sensitivity")+
   theme_bw()+
   theme(text=element_text(size = 40))+
-  annotate("text",size=10,x=0.8,y=0.25,label=paste("AUC = ",round(g$auc,2),
-                                                   "\n95% CI: (",round(ci95$ci[1],2),"-",round(ci95$ci[3],2),")",
-                                                   sep = ""))
+  annotate("text",size=10,x=0.8,y=0.25,label="AUC = 0.72\n95% CI: (0.57-0.88)")
+
