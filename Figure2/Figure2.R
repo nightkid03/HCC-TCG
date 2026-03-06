@@ -1,13 +1,22 @@
+library(ggplot2)
+
 myalltcgcolor=c("C1A"="#63953C","C1B"="#5516BC")
 #Figure2A
 drawdata=readRDS("Fig2A.rds")
+drawdata_mean=aggregate(drawdata[,1:2],by=list(drawdata$Group),mean)
+drawdata_mean_df=data.frame()
+for(j in 1:nrow(drawdata_mean))
+{
+  tmpind=which(drawdata$Group==drawdata_mean$Group.1[j])
+  dddd=data.frame(meanX1=rep(drawdata_mean$Axis.1[j],length(tmpind)),
+                  meanX2=rep(drawdata_mean$Axis.2[j],length(tmpind)),drawdata[tmpind,c("Axis.1","Axis.2")],
+                  Group=rep(drawdata_mean$Group.1[j],length(tmpind)))
+  drawdata_mean_df=rbind(drawdata_mean_df,dddd)
+}
 ggplot(drawdata,aes(x=Axis.1,y=Axis.2))+
   geom_point(aes(color=Group),size=5)+
-  #geom_text_repel(aes(label=Sample_ID),size=6)+
-  #geom_path(aes(group=Group))+
   geom_segment(data=drawdata_mean_df,aes(x=meanX1,y=meanX2,xend=Axis.1,yend=Axis.2,color=Group))+
-  #stat_ellipse(aes(color=Group))+
-  labs(x=paste("PC1 (",explain[1],"%)"),y=paste("PC2 (",explain[2],"%)"))+
+  labs(x="21.05%",y="13.8%")+
   theme_bw()+
   theme(text=element_text(size=24),plot.title = element_text(hjust = 0.5,size=18),legend.title = element_blank(),axis.text = element_text(color="black"))+
   scale_color_manual(values = myalltcgcolor)
