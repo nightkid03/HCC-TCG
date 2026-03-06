@@ -1,0 +1,66 @@
+# HCC-TCG
+Codes related to "Two Stable Gut Microbiome Guilds Predict Liver Tumor Class and Treatment Responses"
+-------------
+
+## 1.	Data quality control of metagenomes
+
+### Tool: kneaddata (https://huttenhower.sph.harvard.edu/kneaddata/)
+
+### Input: $R1: R1 reads, $R2: R2 reads
+```
+kneaddata -i1 $R1 -i2 $R2 -o $prefix -db $refdb --output-prefix $prefix \
+-t 20 --decontaminate-pairs strict --sequencer-source $sequencer_source --run-trim-repetitive \
+--trimmomatic-options=\"ILLUMINACLIP:$adapter:2:30:10 SLIDINGWINDOW:4:20 MINLEN:60\" \
+--run-fastqc-start --run-fastqc-end --bypass-trf \
+--trimmomatic Trimmomatic-0.39 \\
+--fastqc FastQC --remove-intermediate-output –reorder
+```
+
+## 2.	De novo assembles contigs from high quality reads.
+
+### Tool: Megahit (https://github.com/voutcn/megahit)
+
+### Input: $R1: high quality reads R1, $R2: high quality reads R2
+```
+megahit -1 $R1 -2 $R2 -o $prefix --min-contig-len 500 --tmp-dir $tmp_dir --num-cpu-threads 16 --presets meta-large
+```
+
+## 3. Binning assembled contigs
+
+### Tool: metawrap (https://github.com/bxlab/metaWRAP)
+
+### Input: $R1: high quality reads R1, $R2: high quality reads R2
+```
+metawrap binning -t 16 -a $input -o $prefix --metabat2 --maxbin2 $R1 $R2
+```
+
+## 4. Bin refinement
+
+### Tool: metawrap (https://github.com/bxlab/metaWRAP)
+### Input: $bin1: output of maxbin2, $bin2: output of metabat2 (remove bin.unbinned.fa)
+```
+metawrap bin_refinement -t 16 -c 90 -x 5 -o $prefix -A $bin1 -B $bin2
+```
+
+## 5. Check bin quality
+
+### Tool: Checkm (https://github.com/Ecogenomics/CheckM)
+
+### Input: $input: refined bins from step 4.
+```
+checkm lineage_wf -f $prefix.CheckM.txt -t 16 -x fa $input $prefix
+```
+
+## 6. Genome dereplication 
+
+### Tool: dRep (https://drep.readthedocs.io/en/latest/)
+
+### Input: all bins meet quality cutoff
+```
+dRep dereplicate --S_algorithm ANIn -sa 0.99 -p 16 --ignoreGenomeQuality $output -g $input/*.fa
+```
+## 7.	Genome Abundance estimation
+
+### Tool: Ditasic (https://rki_bioinformatics.gitlab.io/ditasic/)
+
+### Input: dereplicated genomes, high quality reads. 
