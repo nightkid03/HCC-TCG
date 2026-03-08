@@ -1,0 +1,8 @@
+#0. Download and Installation
+https://cytoscape.org/
+#1. Network import
+File -> Import -> Network from File: 372stable.edge.txt
+File -> Import -> Table from File: 372stable.edge.txt
+#2. Connected Components Cluster
+Install clusterMaker2 in the Apps
+Apps -> clusterMaker Cluster Network -> Connected components cluster
