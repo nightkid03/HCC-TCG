@@ -1,0 +1,34 @@
+#Install Fastspar
+https://github.com/scwatts/fastspar
+
+# BT group
+module load miniconda3
+source activate fastspar
+date
+fastspar -c BT.txt -r BT.R.txt -a BT.cov.txt -i 100 -x 0 -e 0
+date
+mkdir tmpdir
+fastspar_bootstrap -c BT.txt -n 1000 -p tmpdir/boot
+date
+mkdir tmpdir_r
+parallel -j 6 fastspar -e 0 -x 0 -i 100 -t 1 -c {} -r tmpdir_r/cor_{/} -a tmpdir_r/cov_{/} ::: tmpdir/*
+fastspar_pvalues -c BT.txt -r BT.R.txt -p tmpdir_r/cor_boot_ -n 1000 -o BT.P.txt
+date
+rm -r tmpdir
+rm -r tmpdir_r
+
+# MT group
+module load miniconda3
+source activate fastspar
+date
+fastspar -c MT.txt -r MT.R.txt -a MT.cov.txt -i 100 -x 0 -e 0
+date
+mkdir tmpdir
+fastspar_bootstrap -c MT.txt -n 1000 -p tmpdir/boot
+date
+mkdir tmpdir_r
+parallel -j 6 fastspar -e 0 -x 0 -i 100 -t 1 -c {} -r tmpdir_r/cor_{/} -a tmpdir_r/cov_{/} ::: tmpdir/*
+fastspar_pvalues -c MT.txt -r MT.R.txt -p tmpdir_r/cor_boot_ -n 1000 -o MT.P.txt
+date
+rm -r tmpdir
+rm -r tmpdir_r
