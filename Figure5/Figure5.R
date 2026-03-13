@@ -1,3 +1,4 @@
+library(readxl)
 library(ggplot2)
 
 myallRecurrence_2y_color=c("No_Recurrence"="#5F8AFE","Recurrence"="#FDBE60")
@@ -21,6 +22,19 @@ ggplot(data,aes(x=group,y=mean))+
   theme_bw()+coord_flip()+
   theme(text=element_text(size=40),legend.position = "none",axis.text = element_text(color="black"))+
   scale_fill_manual(values = myallRecurrence_2y_color)
+#Figure5C
+mydata=data.frame(read_excel("Fig5C.xlsx",sheet = "Sheet1"),row.names = 1)
+mydata$item=rownames(mydata)
+mydata$item=factor(mydata$item,levels=mydata$item)
+mydata$color=ifelse(mydata$Pearson_P<0.1&mydata$Pearson_R>0,"black","white")
+ggplot(mydata,aes(x=item,y=Pearson_R))+
+  geom_bar(aes(fill=color),color="black",stat="identity")+
+  labs(x="",y="Pearson's correlation coefficient between\npredicted and measured values")+
+  theme_bw()+
+  theme(text=element_text(size=30),legend.position = "none",axis.text = element_text(color="black"),axis.text.x=element_text(angle = 45,vjust = 1,hjust = 1))+
+  scale_fill_manual(values = c("black"="black","white"="white"))
+
+
 #Figure5D
 data=readRDS("Fig5D.rds")
 ggplot(data,aes(x=specificity,y=sensitivity))+
