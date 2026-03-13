@@ -108,7 +108,7 @@ ggplot(data,aes(x=specificity,y=sensitivity))+
   theme(text=element_text(size = 40))+
   annotate("text",size=10,x=0.8,y=0.25,label="AUC = 0.85\n95% CI: (0.75-0.96)")
 
-#Figure3J
+#Figure3K
 data=readRDS("Fig3K.rds")
 ggplot(data,aes(x=specificity,y=sensitivity))+
   geom_line(size=3)+
